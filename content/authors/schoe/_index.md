@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Principal Investigator
+role: Associate Professor
 
 # Organizations/Affiliations
 #organizations:
