@@ -21,10 +21,10 @@ role: Associate Professor
 bio: ""
 #My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Theoretical Physics
+- Computational Physics
+- Computational Biophysics
 
 education:
   courses:
