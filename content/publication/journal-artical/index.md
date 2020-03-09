@@ -37,7 +37,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://www.nature.com/articles/nature09580'
 url_video: ''
 
 # Featured image
