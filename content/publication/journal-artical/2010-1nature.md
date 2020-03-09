@@ -8,7 +8,7 @@ date: "2010-12-05"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+#publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,6 +27,7 @@ summary: []
 
 #tags:
 #- Source Themes
+
 featured: true
 
 # links:
@@ -43,10 +44,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
