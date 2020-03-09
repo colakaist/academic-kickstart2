@@ -1,9 +1,9 @@
 ---
-title: "An example journal article"
+title: "The mechanism of sodium and substrate release from the binding pocket of vSGLT"
 authors:
-- schoe
+- schoe 
 - 
-date: ""
+date: "2010-12-05"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "Nature"
 publication_short: ""
 
-abstract: 
+abstract: Membrane co-transport proteins that use a five-helix inverted repeat motif have recently emerged as one of the largest structural classes of secondary active transporters1,2. However, despite many structural advances there is no clear evidence of how ion and substrate transport are coupled. Here we report a comprehensive study of the sodium/galactose transporter from Vibrio parahaemolyticus (vSGLT), consisting of molecular dynamics simulations, biochemical characterization and a new crystal structure of the inward-open conformation at a resolution of 2.7 Å. Our data show that sodium exit causes a reorientation of transmembrane helix 1 that opens an inner gate required for substrate exit, and also triggers minor rigid-body movements in two sets of transmembrane helical bundles. This cascade of events, initiated by sodium release, ensures proper timing of ion and substrate release. Once set in motion, these molecular changes weaken substrate binding to the transporter and allow galactose readily to enter the intracellular space. Additionally, we identify an allosteric pathway between the sodium-binding sites, the unwound portion of transmembrane helix 1 and the substrate-binding site that is essential in the coupling of co-transport.
 
 # Summary. An optional shortened abstract.
 summary: []
@@ -61,14 +61,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-#{{% alert note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management #software.
-#{{% /alert %}}
-#
-#{{% alert note %}}
-#Click the *Slides* button above to demo Academic's Markdown slides feature.
-#{{% /alert %}}
-#
-#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
