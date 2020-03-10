@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:schoe@dgist.ac.kr"
+  link: mailto:schoe@dgist.ac.kr
   
 #- icon: google-scholar
 #  icon_pack: ai
