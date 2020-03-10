@@ -22,10 +22,10 @@ subtitle = ""
 
 [design]
   # Show user's social networking links? (true/false)
-  show_social = false
+  show_social = true
 
   # Show user's interests? (true/false)
-  show_interests = false
+  show_interests = true
 
 [design.background]
   # Apply a background color, gradient, or image.
