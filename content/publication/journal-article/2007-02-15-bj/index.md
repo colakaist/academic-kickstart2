@@ -1,6 +1,6 @@
 ---
 title: "Bending Elasticity of Anti-Parallel β-Sheets"
-authors:[S. Choe, S.X. Sun]
+authors: [S. Choe, S.X. Sun]
 #- schoe 
 
 date: "2007-02-15"
