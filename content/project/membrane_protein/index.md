@@ -8,7 +8,7 @@ authors: []
 tags: []
 categories: []
 date: [] 
-relatedpublications: [2010-12-05-nature]
+relatedpublications: ["/journal-article/2010-12-05-nature"]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
