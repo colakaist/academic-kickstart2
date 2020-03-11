@@ -32,7 +32,7 @@ external_link: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "nature_movie1.avi"
+url_video: ""
 
 
 # Slides (optional).
@@ -42,10 +42,13 @@ url_video: "nature_movie1.avi"
 #   Otherwise, set `slides = ""`.
 slides: ""
 
+
+
 # projecttitle: 
 projecttext: "coming soon ... "
 projectimage: "featured.png"
 projectimagecaption: "Molecular Dynamics(MD) Simulation of vSGLT"
 projectimagecaptionshort: ""
 
+{{< video src="nature_movie1.avi" controls="yes" >}}
 ---
