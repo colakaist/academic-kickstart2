@@ -8,7 +8,7 @@ authors: []
 tags: []
 categories: []
 date: 
-relatedpublications: [2016-07-05-pnas,2014-03-18-bj,2010-12-05-nature,2010-10-06-bj]
+relatedpublications: []
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -44,8 +44,8 @@ slides: ""
 
 # projecttitle: 
 projecttext: ""
-projectimage: "nature_movie1_capture.png"
-projectimagecaption: "Molecular Dynamics Simulation of vSGLT"
+projectimage: "featured.png"
+projectimagecaption: "Molecular Dynamics(MD) Simulation of vSGLT"
 projectimagecaptionshort: ""
 
 ---
