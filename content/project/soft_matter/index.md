@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Membrane Protein Structure and Function"
+title: "Functional and Mechanical Properties of Biological Soft Matter"
 summary: ""
 
 authors: []
