@@ -14,9 +14,17 @@
   weight = 20
   
 [[main]]
-  name = "Projects"
+  name = "Research Projects"
   url = "#projects"
   weight = 30
+  hasChildren = true
+  identifier = "current_projects"
+  
+[[main]]
+  name = "membrane protein structure and function"
+  url = "projects/memprotein/"
+  weight = "1"
+  parent = "current_projects"
   
 [[main]]
   name = "Publications"
