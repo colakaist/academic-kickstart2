@@ -8,7 +8,7 @@ authors: []
 tags: []
 categories: []
 date: [] 
-relatedpublications: []
+relatedpublications: [2010-12-05-nature]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -50,8 +50,8 @@ slides: ""
 
 # projecttitle: 
 projecttext: "coming soon ... "
-projectimage: "featured.png"
-projectimagecaption: "Molecular Dynamics(MD) Simulation of vSGLT"
+projectimage: ""
+projectimagecaption: ""
 projectimagecaptionshort: ""
 
 
