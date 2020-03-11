@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Theoretical Modeling of Cell Devision and the Min System"
+title: "Theoretical Modeling of a Cell Devision and the Min System"
 summary: ""
 
 authors: []
