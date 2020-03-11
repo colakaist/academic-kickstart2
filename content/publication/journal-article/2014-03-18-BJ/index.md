@@ -1,10 +1,12 @@
 ---
 title: "Structural Determinants of Water Permeation through the Sodium-Galactose Transporter vSGLT"
-authors:
-- schoe 
+authors: [J.L. Adelman, Y. Sheng, S. Choe, J. Abramson, E.M. Wright, J.M. Rosenberg, M. Grabe]
+#- schoe 
 
 date: "2014-03-18"
 doi: ""
+volume: "106"
+pages: "1280 - 1289"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: ""
