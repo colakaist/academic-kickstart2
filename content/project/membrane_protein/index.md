@@ -16,10 +16,10 @@ external_link: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-#image:
-#  caption: "This is the picture"
-#  focal_point: ""
-#  preview_only: true
+image:
+  caption: "This is the picture"
+  focal_point: ""
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -44,8 +44,8 @@ slides: ""
 
 # projecttitle: 
 projecttext: ""
-projectimage: ""
-projectimagecaption: ""
+projectimage: "nature_movie1_capture.png"
+projectimagecaption: "Molecular Dynamics Simulation of vSGLT"
 projectimagecaptionshort: ""
 
 ---
