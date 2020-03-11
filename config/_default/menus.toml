@@ -22,7 +22,7 @@
   
 [[main]]
   name = "membrane protein structure and function"
-  url = "projects/memprotein/"
+  url = "project/memprotein/"
   weight = "1"
   parent = "current_projects"
   
