@@ -14,40 +14,46 @@
   weight = 20
   
 [[main]]
-  name = "Research Projects"
+  name = "Research"
   url = "#projects"
   weight = 30
   hasChildren = true
   identifier = "current_projects"
-  
+ 
 [[main]]
-  name = "membrane protein structure and function"
-  url = "project/membrane_protein/"
+  name = "Overview"
+  url = "project/"
   weight = "1"
   parent = "current_projects"
   
 [[main]]
-  name = "functional and mechanical properties of biological soft matter"
-  url = "project/soft_matter/"
+  name = "Membrane Protein Structure and Function"
+  url = "project/membrane_protein/"
   weight = "2"
   parent = "current_projects"
   
 [[main]]
-  name = "cell-penetrating peptides(CPPs) and drug delivery"
-  url = "project/cpp/"
+  name = "Functional and Mechanical Properties of Biological Soft Matter"
+  url = "project/soft_matter/"
   weight = "3"
+  parent = "current_projects"
+  
+[[main]]
+  name = "Cell-Penetrating Peptides(CPPs) and Drug Delivery"
+  url = "project/cpp/"
+  weight = "4"
   parent = "current_projects" 
   
 [[main]]
-  name = "path sampling of rare events"
+  name = "Path Sampling of Rare Events"
   url = "project/path_sampling/"
-  weight = "4"
+  weight = "5"
   parent = "current_projects" 
 
 [[main]]
-  name = "theoretical modeling of a cell devision and the min system"
+  name = "Theoretical Modeling of a Cell Devision and the Min System"
   url = "project/cell_devision/"
-  weight = "5"
+  weight = "6"
   parent = "current_projects"
   
 
