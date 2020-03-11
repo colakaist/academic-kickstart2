@@ -17,9 +17,9 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
-  preview_only: true
+  caption: "Molecular Dynamics(MD) Simulation of vSGLT"
+  focal_point: "Center"
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -43,8 +43,8 @@ url_video: "nature_movie1.avi"
 slides: ""
 
 # projecttitle: 
-projecttext: ""
-projectimage: "featured.png"
+projecttext: "coming soon ... "
+projectimage: ""
 projectimagecaption: ""
 projectimagecaptionshort: ""
 
