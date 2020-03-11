@@ -1,10 +1,12 @@
 ---
 title: "Stochastic steps in secondary active sugar transport"
-authors:
+authors: [J.L. Adelman, C. Ghezzi, P. Bisignano, D.D.F. Loo, S. Choe, J. Abramson, J.M. Rosenberg, E.M. Wright, M. Grabe]
 - schoe 
 
 date: "2016-07-05"
 doi: ""
+volume: "113"
+pages: "E3960 - E3966"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: ""
