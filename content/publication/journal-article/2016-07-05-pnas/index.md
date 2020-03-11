@@ -1,7 +1,7 @@
 ---
 title: "Stochastic steps in secondary active sugar transport"
 authors: [J.L. Adelman, C. Ghezzi, P. Bisignano, D.D.F. Loo, S. Choe, J. Abramson, J.M. Rosenberg, E.M. Wright, M. Grabe]
-- schoe 
+#- schoe 
 
 date: "2016-07-05"
 doi: ""
