@@ -151,10 +151,14 @@ section_pager = false
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = false
+sharing = true
 
 # Link authors to their profile page? (true/false)
-link_authors = false
+link_authors = true
+
+#link related publications
+link_relatedpublications = true
+
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
 abstract_length = 135
@@ -197,9 +201,9 @@ plugins_js  = []
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-# post_view = 2
-# publication_view = 2
-# talk_view = 2
+ post_view = 2
+ publication_view = 2
+ talk_view = 2
 
 ############################
 ## Comments
