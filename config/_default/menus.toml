@@ -20,11 +20,11 @@
   hasChildren = true
   identifier = "current_projects"
  
-[[main]]
-  name = "Overview"
-  url = "project/"
-  weight = "1"
-  parent = "current_projects"
+#[[main]]
+#  name = "Overview"
+#  url = "project/"
+#  weight = "1"
+#  parent = "current_projects"
   
 [[main]]
   name = "Membrane Protein Structure and Function"
