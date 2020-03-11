@@ -15,7 +15,7 @@
   
 [[main]]
   name = "Research"
-  url = "#projects"
+  url = "project/"
   weight = 30
   hasChildren = true
   identifier = "current_projects"
