@@ -22,10 +22,36 @@
   
 [[main]]
   name = "membrane protein structure and function"
-  url = "project/memprotein/"
+  url = "project/membrane_protein/"
   weight = "1"
   parent = "current_projects"
   
+[[main]]
+  name = "functional and mechanical properties of biological soft matter"
+  url = "project/soft_matter/"
+  weight = "2"
+  parent = "current_projects"
+  
+[[main]]
+  name = "cell-penetrating peptides(CPPs) and drug delivery"
+  url = "project/cpp/"
+  weight = "3"
+  parent = "current_projects" 
+  
+[[main]]
+  name = "path sampling of rare events"
+  url = "project/path_sampling/"
+  weight = "4"
+  parent = "current_projects" 
+
+[[main]]
+  name = "theoretical modeling of a cell devision and the min system"
+  url = "project/cell_devision/"
+  weight = "5"
+  parent = "current_projects"
+  
+
+
 [[main]]
   name = "Publications"
   url = "#featured"
