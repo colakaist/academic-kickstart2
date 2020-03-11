@@ -22,8 +22,8 @@ categories: ["Biophysics"]
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Chemical Physics"
-publication_short: "J. Chem. Phys."
+publication: "J. Chem. Phys."
+publication_short: ""
 
 abstract: "The elasticity of α-helices is examined using equilibrium molecular-dynamics simulations. From the statistics of curvatures and twists, we compute the elastic moduli of several representative α-helices, both in the presence and absence of aqueous solvent. We discover that the bending modulus (persistence length) of the helices is independent of the amino-acid sequence, although helices in water are slightly softer than in vacuum. The response of the helices under the action of an external force is also computed and compared with continuum mechanics predictions. Within the time scale of our simulation, we show that the properties of α-helices are well reproduced by an elastic and isotropic rod. The persistence length (bending modulus) of most α-helices in water or vacuum is ≈100nm, roughly twice that of DNA."
 
