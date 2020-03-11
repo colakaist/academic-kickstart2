@@ -8,7 +8,7 @@ authors: []
 tags: []
 categories: []
 date: 
-relatedpublications: [/journal-article/2016-07-05-pnas/,2014-03-18-bj,2010-12-05-nature,2010-10-06-bj]
+relatedpublications: [2016-07-05-pnas,2014-03-18-bj,2010-12-05-nature,2010-10-06-bj]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -32,7 +32,7 @@ external_link: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "nature_movie1.avi"
 
 
 # Slides (optional).
