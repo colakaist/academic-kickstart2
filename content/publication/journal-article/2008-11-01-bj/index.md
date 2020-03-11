@@ -1,10 +1,12 @@
 ---
 title: "Molecular Dynamics Simulation Study of a Pulmonary Surfactant Film Interacting with a Carbonaceous Nanoparticle"
-authors:
-- schoe 
+authors: [S. Choe, R. Chang, J. Jeon, A. Violi]
+#- schoe 
 
 date: "2008-11-01"
 doi: ""
+volume: "95"
+pages: "4102 - 4114"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: ""
