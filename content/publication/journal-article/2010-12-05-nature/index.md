@@ -1,10 +1,12 @@
 ---
 title: "The mechanism of sodium and substrate release from the binding pocket of vSGLT"
-authors:
-- schoe 
+authors: [A. Watanabe, S. Choe, V. Chaptal, J.M. Rosenberg, E.M. Wright, M. Grabe, J. Abramson]
+#- schoe 
 
 date: "2010-12-05"
 doi: ""
+volume: "468"
+pages: "988 - 991"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: ""
