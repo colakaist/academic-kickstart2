@@ -16,10 +16,14 @@ external_link: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-#image:
-#  caption: "Molecular Dynamics(MD) Simulation of vSGLT"
-#  focal_point: "Center"
-#  preview_only: false
+image:
+  caption: "Molecular Dynamics(MD) Simulation of vSGLT"
+  focal_point: "Center"
+  preview_only: false
+
+# movies
+#{{< video src="nature_movie1.avi" controls="yes" >}}
+
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -50,5 +54,6 @@ projectimage: "featured.png"
 projectimagecaption: "Molecular Dynamics(MD) Simulation of vSGLT"
 projectimagecaptionshort: ""
 
-{{< video src="nature_movie1.avi" controls="yes" >}}
+
+
 ---
