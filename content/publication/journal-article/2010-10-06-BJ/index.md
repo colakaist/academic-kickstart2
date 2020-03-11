@@ -1,10 +1,12 @@
 ---
 title: "Water Permeation through the Sodium-Dependent Galactose Cotransporter vSGLT"
-authors:
-- schoe
+authors: [S. Choe, J.M. Rosenberg, J. Abramson, E.M. Wright, M. Grabe]
+#- schoe
 
 date: "2010-10-06"
 doi: ""
+volume: "99"
+pages: "L56 - L58"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: ""
