@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Membrane Protein Structure and Function"
+title: "Cell-Penetrating Peptides(CPPs) and Drug Delivery"
 summary: ""
 
 authors: []
 tags: []
 categories: []
 date: 
-relatedpublications: [/journal-article/2016-07-05-pnas/,2014-03-18-bj,2010-12-05-nature,2010-10-06-bj]
+relatedpublications: []
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
