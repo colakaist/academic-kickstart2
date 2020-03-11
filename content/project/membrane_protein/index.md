@@ -17,8 +17,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Molecular Dynamics(MD) Simulation og vSGLT"
-  focal_point: "Center"
+  caption: ""
+  focal_point: ""
   preview_only: true
 
 # Custom links (optional).
@@ -44,7 +44,7 @@ slides: ""
 
 # projecttitle: 
 projecttext: ""
-projectimage: ""
+projectimage: "featured.png"
 projectimagecaption: ""
 projectimagecaptionshort: ""
 
