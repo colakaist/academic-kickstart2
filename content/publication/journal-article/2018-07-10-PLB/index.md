@@ -1,10 +1,12 @@
 ---
 title: "CMB spectral μ-distortion of multiple inflation scenario"
-authors:
-- schoe 
+authors: [G. Bae, S. Bae, S. Choe, S.H. Lee, J. Lim, H. Zoe]
+#- schoe 
 
 date: "2018-07-10"
 doi: ""
+volume: "782"
+pages: "117 - 123"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: ""
