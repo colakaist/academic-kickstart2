@@ -1,10 +1,12 @@
 ---
 title: "Conformational dynamics of the inner pore helix of voltage-gated potassium channels"
-authors:
-- schoe 
+authors: [S. Choe, M. Grabe]
+#- schoe 
 
 date: "2009-06-04"
 doi: ""
+volume: "130"
+pages: "215103"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: ""
