@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Membrane Protein Structure and Function"
+title: "Membrane Proteins Structure and Function"
 summary: ""
 
 authors: []
