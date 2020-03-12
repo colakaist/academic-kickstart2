@@ -31,12 +31,12 @@ education:
   - course: PhD in Theoretical Nuclear Physics
     institution: Yonsei University
     year: 1997
-#  - course: MSc in Theoretical Nuclear Physics
-#    institution: Yonsei University
-#    year: 1992
-#  - course: BSc in Physics
-#    institution: Yonsei University
-#    year: 1989
+  - course: MSc in Theoretical Nuclear Physics
+    institution: Yonsei University
+    year: 1992
+  - course: BSc in Physics
+    institution: Yonsei University
+    year: 1989
 
 career:
   positions:
