@@ -38,11 +38,11 @@ education:
     institution: Yonsei University
     year: 1989
 
-professional experience:
-  courses:
-  - course: Postdoc@Dept. of Biological Sciences
+career:
+  positions:
+  - position: Postdoc@Dept. of Biological Sciences
     institution: University of Pittsburgh
-    year: 2007-2012
+    year: 2007 - 2012
 
 
 # Social/Academic Networking
