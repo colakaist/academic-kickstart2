@@ -40,7 +40,7 @@ education:
 
 career:
   positions:
-  - position: Postdoc@Dept. of Biological Sciences
+  - position: Postdoc(Dept. of Biological Sciences)
     institution: University of Pittsburgh
     year: 2007 - 2012
 
