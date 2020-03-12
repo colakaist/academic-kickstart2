@@ -1,6 +1,6 @@
 ---
 title: "Twist-4 matrix elements of the nucleon from recent DIS data at CERN and SLAC"
-authors: [S. Choe, T. Hatsuda, Y. Koike, S.H. Lee]
+authors: [S. Choe, T. Hatsuda, Y. Koike, Su H. Lee]
 #- schoe 
 
 date: "1993-08-12"
