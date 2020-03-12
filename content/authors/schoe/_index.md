@@ -39,14 +39,14 @@ education:
     institution: Yonsei University
     year: 1989
 
-positions:
-  courses:
-  - course: Assistant & Associate Professor 
-    institution: DGIST
-    year: 2012 - present
-  - course: Postdoc (Dept. of Biological Sciences)
-    institution: University of Pittsburgh
-    year: 2007 - 2012
+#career:
+#  positions:
+#  - position: Assistant & Associate Professor 
+#    institution: DGIST
+#    year: 2012 - present
+#  - position: Postdoc (Dept. of Biological Sciences)
+#    institution: University of Pittsburgh
+#    year: 2007 - 2012
 
 
 
