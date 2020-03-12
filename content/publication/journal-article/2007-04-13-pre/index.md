@@ -35,7 +35,7 @@ abstract: "We present a method to calculate Lyapunov exponents of rigid diatomic
 #tags:
 #- Source Themes
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
