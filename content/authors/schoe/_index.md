@@ -14,7 +14,7 @@ role: Associate Professor
 
 # Organizations/Affiliations
 #organizations:
-#- name: Stanford University
+#- name: 
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -39,7 +39,7 @@ education:
     institution: Yonsei University
     year: 1989
 
-career:
+positions:
   courses:
   - course: Assistant & Associate Professor 
     institution: DGIST
