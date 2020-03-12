@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Membrane Protein Structure and Function"
-summary: ""
+summary: "coming soon ..."
 
 authors: []
 tags: []
@@ -48,10 +48,10 @@ slides: ""
 
 
 # projecttitle: 
-projecttext: "coming soon ... "
-projectimage: "featured.png"
-projectimagecaption: "Molecular Dynamics(MD) Simulation of vSGLT"
-projectimagecaptionshort: ""
+#projecttext: "coming soon ... "
+#projectimage: "featured.png"
+#projectimagecaption: "Molecular Dynamics(MD) Simulation of vSGLT"
+#projectimagecaptionshort: ""
 
 
 ---
