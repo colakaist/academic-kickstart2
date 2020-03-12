@@ -40,11 +40,11 @@ education:
     year: 1989
 
 career:
-  positions:
-  - position: Assistant & Associate Professor 
+  courses:
+  - course: Assistant & Associate Professor 
     institution: DGIST
     year: 2012 - present
-  - position: Postdoc (Dept. of Biological Sciences)
+  - course: Postdoc (Dept. of Biological Sciences)
     institution: University of Pittsburgh
     year: 2007 - 2012
 
