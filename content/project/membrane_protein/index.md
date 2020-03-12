@@ -56,5 +56,5 @@ slides: ""
 
 ---
 
-Membrane proteins play crucial roles in all organisms, such as receptors, ion channels, GPCR (G protein–coupled receptors) and various  transporters.
+Membrane proteins(e.g, enzymes, receptors, ion channels, transporters, etc.) play crucial roles in all organisms, and they are the major drug targets for pharmaceuticals. We have been working on one of sodium coupled cotransporter(vSGLT) to understand the mechanism of substrate transport.  
 
