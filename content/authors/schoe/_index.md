@@ -31,12 +31,12 @@ education:
   - course: PhD in Theoretical Nuclear Physics
     institution: Yonsei University
     year: 1997
-  - course: MSc in Theoretical Nuclear Physics
-    institution: Yonsei University
-    year: 1992
-  - course: BSc in Physics
-    institution: Yonsei University
-    year: 1989
+#  - course: MSc in Theoretical Nuclear Physics
+#    institution: Yonsei University
+#    year: 1992
+#  - course: BSc in Physics
+#    institution: Yonsei University
+#    year: 1989
 
 career:
   positions:
@@ -46,9 +46,9 @@ career:
   - position: Assistant Professor 
     institution: DGIST
     year: 2012 - 2017
-  - position: Postdoc (Dept. of Biological Sciences)
-    institution: University of Pittsburgh
-    year: 2007 - 2012
+ # - position: Postdoc (Dept. of Biological Sciences)
+ #   institution: University of Pittsburgh
+ #   year: 2007 - 2012
 
 
 
