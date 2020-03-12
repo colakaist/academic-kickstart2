@@ -56,5 +56,5 @@ slides: ""
 
 ---
 
-coming soon ...
+Membrane proteins play crucial roles in all organisms, such as receptors, ion channels, GPCR (G protein–coupled receptors) and various  transporters.
 
