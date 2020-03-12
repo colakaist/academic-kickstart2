@@ -18,7 +18,7 @@ role: Associate Professor
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-#bio: ""
+bio: ""
 #My research interests include distributed robotics, mobile computing and programmable matter.
 #
 #interests:
@@ -40,9 +40,17 @@ education:
 
 career:
   positions:
+  - position: Associate Professor 
+    institution: DGIST
+    year: 2017 - present
+  - position: Assistant Professor 
+    institution: DGIST
+    year: 2012 - 2017
   - position: Postdoc (Dept. of Biological Sciences)
     institution: University of Pittsburgh
     year: 2007 - 2012
+
+
 
 
 # Social/Academic Networking
