@@ -2,13 +2,13 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Membrane Protein Structure and Function"
-summary: "coming soon ..."
+summary: ""
 
 authors: []
 tags: []
 categories: []
 date: [] 
-relatedpublications: ["2010-12-05-nature"]
+relatedpublications: [2010-12-05-nature]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
