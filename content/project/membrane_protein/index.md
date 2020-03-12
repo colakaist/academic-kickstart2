@@ -4,11 +4,11 @@
 title: "Membrane Protein Structure and Function"
 summary: ""
 
-authors: [schoe]
+authors: []
 tags: []
-categories: []
+categories: ["Biophysics"]
 date: [] 
-relatedpublications: [2010-12-05-nature]
+relatedpublications: ["2010-12-05-nature"]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
