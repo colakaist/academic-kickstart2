@@ -34,7 +34,7 @@ abstract: "We present the first results for masses of spin-3/2 N and Δ baryons 
 #tags:
 #- Source Themes
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
