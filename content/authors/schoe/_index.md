@@ -40,15 +40,12 @@ education:
 
 career:
   positions:
-  - position: Associate Professor 
+  - position: Assistant & Associate Professor 
     institution: DGIST
-    year: 2017 - present
-  - position: Assistant Professor 
-    institution: DGIST
-    year: 2012 - 2017
- # - position: Postdoc (Dept. of Biological Sciences)
- #   institution: University of Pittsburgh
- #   year: 2007 - 2012
+    year: 2012 - present
+  - position: Postdoc (Dept. of Biological Sciences)
+    institution: University of Pittsburgh
+    year: 2007 - 2012
 
 
 
