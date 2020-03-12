@@ -3,7 +3,7 @@ title: "QCD sum rules and chiral logarithms"
 authors: [Su H. Lee, S. Choe, T.D. Cohen, D.K. Griegel]
 #- schoe
 
-date: "1995-04-6"
+date: "1995-04-06"
 doi: ""
 volume: "348"
 pages: "263 - 269"
