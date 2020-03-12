@@ -8,7 +8,7 @@ authors: []
 tags: []
 categories: []
 date: 
-relatedpublications: [/journal-article/2016-07-05-pnas/,2014-03-18-bj,2010-12-05-nature,2010-10-06-bj]
+relatedpublications: []
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -43,10 +43,11 @@ url_video: ""
 slides: ""
 
 # projecttitle: 
-projecttext: ""
-projectimage: ""
-projectimagecaption: ""
-projectimagecaptionshort: ""
+#projecttext: ""
+#projectimage: ""
+#projectimagecaption: ""
+#projectimagecaptionshort: ""
 
 ---
 
+In order to understand mechanisms of various biological functions it is crucial to understand  functional and mechanical properties of of each biological component, such as alpha-helix, beta-sheet, DNA, and lipid molecules, and interactions between them.
