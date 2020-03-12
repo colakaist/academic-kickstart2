@@ -4,7 +4,7 @@
 title: "Membrane Protein Structure and Function"
 summary: ""
 
-authors: []
+authors: [schoe]
 tags: []
 categories: []
 date: [] 
@@ -16,10 +16,10 @@ external_link: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-#image:
-#  caption: "Molecular Dynamics(MD) Simulation of vSGLT"
-#  focal_point: "Center"
-#  preview_only: false
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: true
 
 # movies
 #{{< video src="nature_movie1.avi" controls="yes" >}}
