@@ -7,7 +7,7 @@ authors:
 - schoe
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Associate Professor
@@ -21,10 +21,11 @@ role: Associate Professor
 bio: ""
 #My research interests include distributed robotics, mobile computing and programmable matter.
 #
-#interests:
-#- Theoretical Physics
-#- Computational Physics
-#- Computational Biophysics
+
+interests:
+- Theoretical Physics
+- Computational Physics
+- Computational Biophysics
 
 education:
   courses:
