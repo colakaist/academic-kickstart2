@@ -27,7 +27,7 @@
   parent = "current_projects"
   
 [[main]]
-  name = "Membrane Protein Structure and Function"
+  name = "Membrane Proteins Structure and Function"
   url = "project/membrane_protein/"
   weight = "2"
   parent = "current_projects"
