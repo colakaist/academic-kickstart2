@@ -45,8 +45,8 @@ slides: ""
 
 # projecttitle: 
 #projecttext: "coming soon ... "
-projectimage: "featured.png"
-projectimagecaption: "A snaphot of Molecular Dynamics(MD) simulations of vSGLT"
+#projectimage: "featured.png"
+#projectimagecaption: "A snaphot of Molecular Dynamics(MD) simulations of vSGLT"
 #projectimagecaptionshort: ""
 
 
