@@ -50,4 +50,4 @@ slides: ""
 
 ---
 
-Cell-Penetrating Peptides(CPPs) can deliver pharmalogically active molecules (e.g., proteins, plasmid-DNA, liposomes, and also nanoparticles) into cells, and thus they have great potential as future therapeutics. However, the uptake mechanisms are still on debating. We have been working on several CPPs to identify their transport mechanisms and interactions with various complex lipid molecules. 
+Cell-Penetrating Peptides(CPPs) can deliver pharmalogically active molecules (e.g., proteins, plasmid-DNA, liposomes, and also nanoparticles) into cells, and thus they have great potential as future therapeutics. However, the uptake mechanisms are still debating. We have been working on several CPPs to identify their transport mechanisms and interactions with various complex lipid molecules. 
