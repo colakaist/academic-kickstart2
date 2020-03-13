@@ -19,7 +19,7 @@ external_link: ""
 image:
   caption: "Shape of a membrane from elasticity theory"
   focal_point: "Center"
-  preview_only: true
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
