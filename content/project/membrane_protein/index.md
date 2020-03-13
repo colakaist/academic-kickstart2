@@ -21,10 +21,6 @@ external_link: ""
 #  focal_point: ""
 #  preview_only: true
 
-# movies
-#{{< video src="nature_movie1.avi" controls="yes" >}}
-
-
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
@@ -56,5 +52,5 @@ slides: ""
 
 ---
 
-Membrane proteins(e.g, enzymes, receptors, ion channels, transporters, etc.) play crucial roles in all organisms, and they are the major drug targets for pharmaceuticals. We have been working on one of sodium coupled cotransporters(vSGLT) to understand the mechanism of substrate transport and water permeation.
+Membrane proteins(e.g, enzymes, receptors, ion channels, transporters, etc.) play crucial roles in all organisms, and they are the major drug targets for pharmaceuticals. We have been working on one of sodium coupled cotransporters(vSGLT) to understand the mechanism of substrate transport and water permeation. Our goal is to understand functional properties of human SGLT(hSGLT) and to identify suitable inhibitors to control diabetes.
 
