@@ -50,5 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
+Our lab focuses on the understanding various biological functions using theoretical modelings and computer simulations. We are interested in all biological functions that occur at the molecular level as well as at the cellular level. 
 
 
