@@ -70,4 +70,4 @@ role:
 #- Visitors
 ---
 
-(under construction)
+Our lab focuses on the understanding various biological functions using theoretical modelings and computer simulations. We are interested in all biological functions that occur at the molecular as well as at the cellular level. 
