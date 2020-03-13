@@ -18,7 +18,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: "Shape of a membrane from elasticity theory"
-  focal_point: "Smart"
+  focal_point: "Bottom"
   preview_only: false
 
 # Custom links (optional).
