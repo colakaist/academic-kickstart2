@@ -16,7 +16,7 @@ external_link: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image: "featured.png"
+image: 
   caption: "A snapshot of Molecular Dynamics(MD) simulation of vSGLT"
   focal_point: ""
   preview_only: true
