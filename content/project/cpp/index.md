@@ -16,10 +16,10 @@ external_link: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-#image:
-#  caption: "This is the picture"
-#  focal_point: ""
-#  preview_only: true
+image:
+  caption: "Interaction of an Arg9 with a DOPC/SM/Chol mixture"
+  focal_point: "Center"
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
