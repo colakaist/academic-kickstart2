@@ -5,10 +5,10 @@
 
 [[main]]
   name = "Home"
-#  url = "#about"
+  url = "#about"
 #   url = "#title_page"
 #   url = "#slider"
-   url = "#title_page2"
+#   url = "#title_page2"
 weight = 10
 
 [[main]]
