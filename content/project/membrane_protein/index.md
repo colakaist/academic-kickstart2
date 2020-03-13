@@ -18,7 +18,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image: 
   caption: "A snapshot of Molecular Dynamics(MD) simulation of vSGLT"
-  focal_point: "Center"
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
