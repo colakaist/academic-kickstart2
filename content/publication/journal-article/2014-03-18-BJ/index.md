@@ -47,6 +47,7 @@ url_project: ''
 url_slides: ''
 url_source: 'https://www.sciencedirect.com/science/article/pii/S0006349514000678'
 url_video: ''
+url_highlight: https://www.sciencedirect.com/science/article/pii/S0006349514001787
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -69,7 +70,6 @@ projects: [membrane_protein]
 #   Otherwise, set `slides: ""`.
 #slides: example
 
-highlight: "https://www.sciencedirect.com/science/article/pii/S0006349514001787"
 ---
 
 
