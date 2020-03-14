@@ -31,8 +31,8 @@ abstract: Sodium-glucose transporters (SGLTs) facilitate the movement of water a
 # Summary. An optional shortened abstract.
 summary: []
 
-#tags:
-#- Source Themes
+tags:
+- highlight
 
 featured: false
 
@@ -47,7 +47,7 @@ url_project: ''
 url_slides: ''
 url_source: 'https://www.sciencedirect.com/science/article/pii/S0006349514000678'
 url_video: ''
-url_highlight: 'https://www.sciencedirect.com/science/article/pii/S0006349514001787'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
