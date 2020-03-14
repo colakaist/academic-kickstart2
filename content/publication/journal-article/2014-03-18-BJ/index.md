@@ -68,6 +68,8 @@ projects: [membrane_protein]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 #slides: example
+
+New and Notable: "https://www.sciencedirect.com/science/article/pii/S0006349514001787"
 ---
 
 
