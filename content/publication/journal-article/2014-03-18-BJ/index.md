@@ -69,7 +69,7 @@ projects: [membrane_protein]
 #   Otherwise, set `slides: ""`.
 #slides: example
 
-New and Notable: "https://www.sciencedirect.com/science/article/pii/S0006349514001787"
+highlight: "https://www.sciencedirect.com/science/article/pii/S0006349514001787"
 ---
 
 
