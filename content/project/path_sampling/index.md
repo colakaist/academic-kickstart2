@@ -50,4 +50,4 @@ slides: ""
 
 ---
 
-Path sampling approaches can enhance the efficiency of simulating rare events, e.g, protein folding, protein binding, and cellular signaling processes, etc. Weighted Ensemble (WE) method has been known for one of powerful and flexible path sampling techniques. It can handle various complex systems either in equilibrium or out of equilibrium, and at scales from molecular to cellular level. We have been using WE simulations to investigate conformational changes of various membrane proteins.  
+Path sampling approaches can enhance the efficiency of simulating rare events, e.g, protein folding, protein (un)binding, and cellular signaling, etc. Weighted Ensemble (WE) method has been known for one of powerful and flexible path sampling techniques. It can handle various complex systems either in equilibrium or out of equilibrium, and at scales from molecular to cellular level. We have been using WE simulations to investigate conformational changes of various membrane proteins.  
