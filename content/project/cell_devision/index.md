@@ -43,10 +43,11 @@ url_video: ""
 slides: ""
 
 # projecttitle: 
-projecttext: ""
-projectimage: ""
-projectimagecaption: ""
-projectimagecaptionshort: ""
+#projecttext: ""
+#projectimage: ""
+#projectimagecaption: ""
+#projectimagecaptionshort: ""
 
 ---
 
+In E. coli the Min protein system(Min C, Min D, and Min E) plays an important role in positioning the cell division site. We have been working on partial differential equations which describe the Min system to investigate the mechanism of the cell devision. We focus on the relation between the concentrations of each protein and the efficiency of the devision.  
