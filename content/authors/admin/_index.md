@@ -72,4 +72,4 @@ role:
 
 ---
 
-Our lab focuses on the understanding various biological functions using theoretical modelings and computer simulations. We are interested in all biological phenomena occuring at the scales from molecular to cellular level. 
+Our lab focuses on the understanding various biological functions using theoretical modelings and computer simulations. We are interested in all biological phenomena occuring at from molecular to cellular scales. 
