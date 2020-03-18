@@ -1,3 +1,32 @@
+---
+title: "Multiquark states and QCD sum rules"
+authors: [S. Choe]
+#- schoe
+
+date: "1997-05-26"
+doi: ""
+volume: "95"
+pages: "D87"
+
+# Schedule page publish date (NOT publication's date).
+#publishDate: ""
+
+# Category
+# Legend:  Theoretical Physics; Biophysics
+categories: ["Theoretical Physics"]
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["1"]
+
+# Publication name and optional abbreviated publication name.
+publication: "Soryushiron Kenkyu"
+publication_short: ""
+
+abstract: "There have been arguments about hadronic molecules, which are weakly-bound states of two or more hadrons. We investigate the possibility of some candidates (f0 (980), a0 (980), f0 (1500), f0 (1710), etc.) using QCD sum rule approach and compare our results with multiquark states in the MIT bag model. We find that f0 (1500), f0 (1710) can be good candidates for vector-vector molecule-type multiquark states."
+
 # Summary. An optional shortened abstract.
 #summary: []
 
@@ -15,7 +44,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://arxiv.org/abs/hep-ph/9705419'
+url_source: 'https://www.jstage.jst.go.jp/article/soken/95/4/95_KJ00004709500/_article/-char/ja/'
 url_video: ''
 
 # Featured image
@@ -39,6 +68,9 @@ projects: []
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
+
+
+
 
 
 
