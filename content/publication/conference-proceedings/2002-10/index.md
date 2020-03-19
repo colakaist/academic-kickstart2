@@ -3,7 +3,7 @@ title: "THE STRUCTURE IN MESONIC CHANNELS ABOVE TC"
 authors: [S. Choe, Ph. de Forcrand, M. GARCIA PEREZ, Y. Liu, H. Matsufuru, A. Nakamura, K. Nomura, I-O. STAMATESCU, T. Takaishi, T. Umeda]
 #- schoe
 
-date: "2002-10"
+date: "2002-10-01"
 doi: ""
 volume: ""
 pages: "348-353"
