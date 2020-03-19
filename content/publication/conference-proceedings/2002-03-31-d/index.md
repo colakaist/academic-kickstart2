@@ -3,7 +3,7 @@ title: "Chemical potential response of pseudoscalar meson masses in the Nambu--J
 authors: [O. Miyamura, S. Choe]
 #- schoe
 
-date: "2002-031-31"
+date: "2002-03-31"
 doi: ""
 volume: "106"
 pages: "474-476"
