@@ -1,6 +1,6 @@
 ---
 title: "Method and apparatus for content modularize"
-authors: [S. Choe, et al]
+authors: [S. Choe, et al.]
 #- schoe
 
 date: "2015-09-09"
