@@ -39,7 +39,7 @@ education:
     institution: Yonsei University
     year: 1989
 
-career:
+experience:
   positions:
   - position: Assistant & Associate Professor 
     institution: DGIST
