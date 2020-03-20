@@ -39,10 +39,10 @@ education:
     institution: Yonsei University
     year: 1989
 
-[[career.positions]]
- position = "Assistant & Associate Professor" 
- institution = "DGIST"
- year = "2012 - present"
+#[[career.positions]]
+# position = "Assistant & Associate Professor" 
+# institution = "DGIST"
+# year = "2012 - present"
 
 #career:
 #  positions:
