@@ -27,27 +27,26 @@ interests:
 - Computational Physics
 - Computational Biophysics
 
-#education:
-#  courses:
-#  - course: PhD in Theoretical Nuclear Physics
-#    institution: Yonsei University
-#    year: 1997
-#  - course: MSc in Theoretical Nuclear Physics
-#    institution: Yonsei University
-#    year: 1992
-#  - course: BSc in Physics
-#    institution: Yonsei University
-#    year: 1989
+education:
+  courses:
+  - course: PhD in Theoretical Nuclear Physics
+    institution: Yonsei University
+    year: 1997
+  - course: MSc in Theoretical Nuclear Physics
+    institution: Yonsei University
+    year: 1992
+  - course: BSc in Physics
+    institution: Yonsei University
+    year: 1989
 
-career:
-  positions:
-  - position: Assistant & Associate Professor 
-    institution: DGIST
-    year: 2012 - present
-  - position: Postdoc (Dept. of Biological Sciences)
-    institution: University of Pittsburgh
-    year: 2007 - 2012
-
+#career:
+#  positions:
+#  - position: Assistant & Associate Professor 
+#    institution: DGIST
+#    year: 2012 - present
+#  - position: Postdoc (Dept. of Biological Sciences)
+#    institution: University of Pittsburgh
+#    year: 2007 - 2012
 
 
 
