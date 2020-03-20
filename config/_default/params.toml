@@ -180,8 +180,8 @@ plugins_js  = []
 
 # Available address formats.
 [address_formats]
-  en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
-#  en-us = {order = ['street', 'city', 'region', 'postcode', 'country'], delimiters = [', ', ', ', ', ', ', '']}
+#  en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
+  en-us = {order = ['street', 'city', 'region', 'postcode', 'country'], delimiters = [' ', ' ',  ' ', ' ', ' ', ' ']}
   en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
   de = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
   fr-fr = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
@@ -266,7 +266,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 0
+  engine = 2
   api_key = ""
   zoom = 15
 
