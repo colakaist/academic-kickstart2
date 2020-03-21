@@ -54,7 +54,7 @@ weight = 10
   parent = "current_projects" 
 
 [[main]]
-  name = "Theoretical Modeling of a Cell Division and the Min System"
+  name = "Theoretical Modeling of a Cell Division and the MinSystem"
   url = "project/cell_division/"
   weight = "6"
   parent = "current_projects"
