@@ -50,4 +50,4 @@ slides: ""
 
 ---
 
-In order to understand mechanisms of various biological functions it is crucial to identify functional and mechanical properties of each biological component, such as an alpha-helix, a beta-sheet, DNA, a membrane, and so on. We have been developing continuum as well as elastic models of those components to investigate their mechanical properties(e.g., a persistence length or bending energy). 
+In order to understand mechanisms of various biological functions it is crucial to identify functional and mechanical properties of each biological component, such as an alpha-helix, a beta-sheet, DNA, a membrane(bilayer or monolayer), and so on. We have been developing continuum as well as elastic models of those components to investigate their mechanical properties(e.g., a persistence length or bending energy). 
