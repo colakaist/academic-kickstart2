@@ -22,7 +22,6 @@ date_format = "Jan 2006"
   company = ""
   company_url = ""
   location = ""
-  date_start = "2017-01-01"
   description = """ """
   
 
