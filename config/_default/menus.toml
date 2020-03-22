@@ -67,7 +67,7 @@ weight = 10
   weight = 40
   
 [[main]]
-  name = "Recent Posts"
+  name = "Posts"
   url = "#posts"
 #  url = "#post2"
   weight = 50
