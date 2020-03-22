@@ -23,18 +23,10 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "2017-01-01"
-  date_end = ""
   description = """ """
   
 
-[[experience]]
-  title = "Test2"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2016-01-01"
-  date_end = ""
-  description = """ """
+
 
 +++
 
