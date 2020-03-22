@@ -1,5 +1,5 @@
 ---
-title: "THE STRUCTURE IN MESONIC CHANNELS ABOVE TC"
+title: "The Structure in Mesonic Channels above Tc"
 authors: [S. Choe, Ph. de Forcrand, M. GARCIA PEREZ, Y. Liu, H. Matsufuru, A. Nakamura, K. Nomura, I-O. STAMATESCU, T. Takaishi, T. Umeda]
 #- schoe
 
