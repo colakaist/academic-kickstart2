@@ -1,5 +1,5 @@
 ---
-title: "STUDY ON THE 2ND RESPONSES OF HADRONIC MASSES TO CHEMICAL POTENTIAL AT FINITE TEMPERATURE"
+title: "Study on the 2nd Responses of Hadronic Masses to Chemical Potential at Finite Temperature"
 authors: [Y. Liu, S. Choe, A. Nakamura, O. Miyamura, T. Takaishi]
 #- schoe
 
