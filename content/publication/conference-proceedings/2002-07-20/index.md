@@ -25,7 +25,7 @@ publication_types: ["1"]
 publication: "Soryushiron Kenkyu"
 publication_short: ""
 
-abstract: ""
+abstract: "(abstract is not available ...)"
 
 # Summary. An optional shortened abstract.
 #summary: []
@@ -69,7 +69,7 @@ projects: []
 #slides: example
 ---
 
-(abstract is not available ...)
+
 
 
 
