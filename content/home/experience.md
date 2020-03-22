@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2017-01-01"
   date_end = ""
-  description = """
+  description = """ """
   
 
 [[experience]]
@@ -34,6 +34,6 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2016-01-01"
   date_end = ""
-  description = ""
+  description = """ """
 
 +++
