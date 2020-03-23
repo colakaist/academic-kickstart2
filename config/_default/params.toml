@@ -87,7 +87,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "333 Techno Jungang-daero, Hyeonpung-eup", city = "Dalsung-gun", region = "Daegu", postcode = "42988", country = "Korea", country_code = "KR"}
+address = {street = "333 Techno Jungang-daero, Hyeonpung-eup", city = "Dalseong-gun", region = "Daegu", postcode = "42988", country = "Rep. of Korea", country_code = "KR"}
 #address = "333 Techno Jungang-daero, Hyeonpung-up, Dalsung-gun, Daegu 42988, Korea"
 
 # Geographic coordinates
