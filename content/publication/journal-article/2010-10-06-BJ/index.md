@@ -23,7 +23,7 @@ categories: ["Biophysics"]
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Biophys. J."
+publication: "Biophys. J. (featured on the Joural Cover)"
 publication_short: ""
 
 abstract: "It is well accepted that cotransporters facilitate water movement by two independent mechanisms: osmotic flow through a water channel in the protein and flow driven by ion/substrate cotransport. However, the molecular mechanism of transport-linked water flow is controversial. Some researchers believe that it occurs via cotransport, in which water is pumped along with the transported cargo, while others believe that flow is osmotic in response to an increase in intracellular osmolarity. In this letter, we report the results of a 200-ns molecular dynamics simulation of the sodium-dependent galactose cotransporter vSGLT. Our simulation shows that a significant number of water molecules cross the protein through the sugar-binding site in the presence as well as the absence of galactose, and 70-80 water molecules accompany galactose as it moves from the binding site into the intracellular space. During this event, the majority of water molecules in the pathway are unable to diffuse around the galactose, resulting in water in the inner half of the transporter being pushed into the intracellular space and replaced by extracellular water. Thus, our simulation supports the notion that cotransporters act as both passive water channels and active water pumps with the transported substrate acting as a piston to rectify the motion of water."
