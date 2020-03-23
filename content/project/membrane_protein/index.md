@@ -21,7 +21,7 @@ image:
   focal_point: "Center"
   preview_only: false
 
-
+{{< video src="nature_movie1.avi" controls="yes" >}}
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -34,7 +34,7 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "nature_movie1.avi"
+#url_video: "nature_movie1.avi"
 
 
 # Slides (optional).
