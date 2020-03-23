@@ -42,7 +42,7 @@ featured: true
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
-#url_poster: 'BJ_cover_2010.jpg'
+url_poster: 'BJ_cover_2010.jpg'
 url_project: ''
 url_slides: ''
 url_source: 'https://www.sciencedirect.com/science/article/pii/S0006349510010519'
@@ -50,7 +50,7 @@ url_video: ''
 
 #
 #{{% staticref "files/BJ_cover_2010.jpg" %}}Journal Cover{{% /staticref %}}
-{{< figure src="BJ_cover_2010.jpg" title="Journal Cover" lightbox="true" >}}
+#{{< figure src="BJ_cover_2010.jpg" title="Journal Cover" lightbox="true" >}}
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
