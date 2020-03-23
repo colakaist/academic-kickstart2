@@ -6,7 +6,7 @@ summary: ""
 
 authors: []
 tags: []
-categories: ["Biophyscs"]
+categories: []
 date: [] 
 relatedpublications: []
 
@@ -21,7 +21,7 @@ image:
   focal_point: "Center"
   preview_only: false
 
-#video: "nature_movie1.avi"
+
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
