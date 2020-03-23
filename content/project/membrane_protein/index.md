@@ -6,7 +6,7 @@ summary: ""
 
 authors: []
 tags: []
-categories: []
+categories: ["Biophyscs"]
 date: [] 
 relatedpublications: []
 
@@ -34,8 +34,7 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-#url_video: "nature_movie1.avi"
-url_video: ""
+url_video: "nature_movie1.avi"
 
 
 # Slides (optional).
@@ -57,4 +56,4 @@ slides: ""
 
 Membrane proteins(e.g, enzymes, receptors, ion channels, transporters, etc.) play crucial roles in all organisms, and they are the major drug targets for pharmaceuticals. We have been working on one of sodium coupled cotransporters(vSGLT) to understand the mechanism of substrate transport and water permeation. Our general goal is to understand functional properties of various membrane proteins (e.g., human SGLT(hSGLT)) and to identify suitable drugs to control their biological functions.
 
-url_video: "nature_movie1.avi"
+
