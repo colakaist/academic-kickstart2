@@ -48,7 +48,9 @@ url_slides: ''
 url_source: 'https://www.sciencedirect.com/science/article/pii/S0006349510010519'
 url_video: ''
 
-{{% staticref "files/BJ_cover_2010.jpg" %}}Journal Cover{{% /staticref %}}
+#
+#{{% staticref "files/BJ_cover_2010.jpg" %}}Journal Cover{{% /staticref %}}
+{{< figure src="BJ_cover_2010.jpg" title="Journal Cover" lightbox="true" >}}
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
