@@ -45,7 +45,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: 'https://www.nature.com/articles/nature09580'
-url_video: ''
+url_video: 'nature_movie1.avi'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
