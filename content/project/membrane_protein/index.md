@@ -21,7 +21,6 @@ image:
   focal_point: "Center"
   preview_only: false
 
-{{< video src="nature_movie1.avi" controls="yes" >}}
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
