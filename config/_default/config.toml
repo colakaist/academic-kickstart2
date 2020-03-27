@@ -7,9 +7,7 @@
 # Title of your site
 title = "Seungho Choe Research Group@DGIST"
 
-[Params]
-subtitle = "Multi-Scale Biophysics Lab"
-leftsidebar = "true"
+subtitle = "'Multi-Scale Biophysics Lab'"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
