@@ -12,7 +12,7 @@
 weight = 10
 
 [[main]]
-  name = "Team Members"
+  name = "People"
   url = "#people"
   weight = 20
   
@@ -67,7 +67,7 @@ weight = 10
   weight = 40
   
 [[main]]
-  name = "Posts"
+  name = "News"
   url = "#posts"
 #  url = "#post2"
   weight = 50
