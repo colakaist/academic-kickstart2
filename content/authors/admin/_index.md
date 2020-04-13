@@ -72,4 +72,4 @@ role:
 
 ---
 
-Our lab focuses on understanding of various biological functions using theoretical modelings and computer simulations. We are interested in all biological phenomena from molecular to cellular scales. 
+Our lab focuses on understanding of various biological functions using theoretical modelings and computer simulations. Current research topics include membrane proteins structure & function and functional & mechanical properties of biological soft matter, etc.  
