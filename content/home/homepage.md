@@ -42,5 +42,6 @@ subtitle = ""
 
 +++
 
+Our lab focuses on understanding of various biological phenomena using theoretical modelings and computer simulations. Current research topics include membrane proteins structure & function and functional & mechanical properties of biological soft matter, etc.  
 
 
