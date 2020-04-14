@@ -9,7 +9,7 @@
 #   url = "#title_page"
 #   url = "#slider"
 #   url = "#title_page2"
- url = "homepage"
+ url = "#homepage"
 weight = 10
 
 [[main]]
