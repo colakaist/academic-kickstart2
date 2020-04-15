@@ -5,8 +5,8 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Choe Research Group@DGIST"
-#title = " Multiscale Biophysics and Soft Matter Lab@DGIST"
+#title = "Choe Research Group@DGIST"
+title = "Biophysics and Soft Matter Lab@DGIST"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
