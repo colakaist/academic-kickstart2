@@ -21,10 +21,10 @@ role: Associate Professor
 #bio: ""
 #My research interests include 
 
-#interests:
-#- Theoretical Physics
-#- Computational Physics
-#- Computational Biophysics
+interests:
+- Theoretical Physics
+- Computational Physics
+- Computational Biophysics
 
 education:
   courses:
@@ -38,19 +38,19 @@ education:
     institution: Yonsei University
     year: 1989
 
-#[[career.positions]]
-# position = "Assistant & Associate Professor" 
-# institution = "DGIST"
-# year = "2012 - present"
+[[career.positions]]
+ position = "Assistant & Associate Professor" 
+ institution = "DGIST"
+ year = "2012 - present"
 
-career:
-  positions:
-  - position: Assistant & Associate Professor 
-    institution: DGIST
-    year: 2012 - present
-  - position: Postdoc (Dept. of Biological Sciences)
-    institution: University of Pittsburgh
-    year: 2007 - 2012
+#career:
+#  positions:
+#  - position: Assistant & Associate Professor 
+#    institution: DGIST
+#    year: 2012 - present
+#  - position: Postdoc (Dept. of Biological Sciences)
+#    institution: University of Pittsburgh
+#    year: 2007 - 2012
 
 
 
