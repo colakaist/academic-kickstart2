@@ -50,4 +50,4 @@ slides: ""
 
 ---
 
-In order to understand mechanisms of various biological functions at molecular scales it is crucial to identify functional and mechanical properties of each biological component, such as an alpha-helix, a beta-sheet, DNA, a membrane(bilayer or monolayer). We have been developing continuum as well as elastic models of those components to investigate their mechanical properties(e.g., a persistence length or bending energy), and also working on molecular dynamics(MD) simulations to investigate interactions between them.
+In order to understand mechanisms of various biological functions at molecular scales it is crucial to identify functional and mechanical properties of each biological component, such as an alpha-helix, a beta-sheet, DNA, a membrane(bilayer or monolayer), etc. We have been developing continuum as well as elastic models of those components to investigate their mechanical properties(e.g., a persistence length or bending energy), and also working on molecular dynamics(MD) simulations to investigate interactions between them.
