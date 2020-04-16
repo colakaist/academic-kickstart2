@@ -37,7 +37,6 @@ education:
   - course: BSc in Physics
     institution: Yonsei University
     year: 1989
-
 experience:
   courses:
   - course: Assistant & Associate Professor 
