@@ -42,6 +42,6 @@ subtitle = ""
 
 +++
 
-Our lab focuses primarily on understanding of various biological phenomena from molecular to cellular scales using theoretical modelings and computer simulations. Current research topics include membrane proteins structure & function, functional & mechanical properties of biological soft matter, and cell-penetrating peptides(CPPs) & drug delivery.
+Our lab focuses primarily on understanding of various biological phenomena from molecular to cellular scales using theoretical modelings and computer simulations. Soft matter and biological physics are closely related branches of physics because many parts of  biological cells and tissues consist of soft matter systems, e.g., globular proteins are colloids, DNA is a stiff polymer, and the lipids forming cell membranes are essentially surfactants. Current research topics include membrane proteins structure & function, functional & mechanical properties of biological soft matter, cell-penetrating peptides(CPPs) & drug delivery, and so on.
 
 
