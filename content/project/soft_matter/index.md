@@ -17,7 +17,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Shape of a membrane from elasticity theory"
+  caption: "Mean curvature and Gaussian curvature of a DOPC/DOPG membrane"
   focal_point: "Center"
   preview_only: false
 
