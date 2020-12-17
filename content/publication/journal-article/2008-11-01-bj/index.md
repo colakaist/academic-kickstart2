@@ -1,5 +1,5 @@
 ---
-title: "Molecular Dynamics Simulation Study of a Pulmonary Surfactant Film Interacting with a Carbonaceous Nanoparticle"
+title: "Molecular dynamics simulation study of a pulmonary surfactant film interacting with a carbonaceous nanoparticle"
 authors: [S. Choe, R. Chang, J. Jeon, A. Violi]
 #- schoe 
 
