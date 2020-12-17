@@ -1,5 +1,5 @@
 ---
-title: "Water Permeation through the Sodium-Dependent Galactose Cotransporter vSGLT"
+title: "Water permeation through the sodium-dependent galactose cotransporter vSGLT"
 authors: [S. Choe, J.M. Rosenberg, J. Abramson, E.M. Wright, M. Grabe]
 #- schoe
 
