@@ -1,5 +1,5 @@
 ---
-title: "A Continuum Method for Determining Membrane Protein Insertion Energies and the Problem of Charged Residues"
+title: "A continuum method for determining membrane protein insertion energies and the problem of charged residues"
 authors: [S. Choe, K.A. Hecht, M. Grabe]
 #- schoe 
 
