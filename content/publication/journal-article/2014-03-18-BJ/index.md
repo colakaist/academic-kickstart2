@@ -1,5 +1,5 @@
 ---
-title: "Structural Determinants of Water Permeation through the Sodium-Galactose Transporter vSGLT"
+title: "Structural determinants of water permeation through the sodium-galactose transporter vSGLT"
 authors: [J.L. Adelman, Y. Sheng, S. Choe, J. Abramson, E.M. Wright, J.M. Rosenberg, M. Grabe]
 #- schoe 
 
