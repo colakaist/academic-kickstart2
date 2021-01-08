@@ -76,14 +76,14 @@ weight = 100
 [[main]]
   name = "Self-Assembly of Polymers"
   url = "project/soft_matter_physics/self_assembly/"
-  weight = "6"
+  weight = "1"
   parent = "current_projects_softmatter"
 
 
 [[main]]
   name = "Polyelectrolyte-Polyampholyte Complexes"
   url = "project/soft_matter_physics/pe_pa/"
-  weight = "7"
+  weight = "2"
   parent = "current_projects_softmatter"
 
 
