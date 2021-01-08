@@ -26,7 +26,7 @@ weight = 100
  
 [[main]]
   name = "Biophysics"
-  url = "#projects"
+#  url = "#projects"
   weight = "10"
   parent = "current_projects"
   hasChildren = true
@@ -35,7 +35,7 @@ weight = 100
 
 [[main]]
   name = "Soft Matter Physics"
-  url = "#projects"
+#  url = "#projects"
   weight = "20"
   parent = "current_projects"
   hasChildren = true
