@@ -85,9 +85,6 @@ weight = 10
   parent = "current_projects_softmatter"
 
 
-
-
-
 [[main]]
   name = "Publications"
   url = "#featured"

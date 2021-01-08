@@ -25,67 +25,41 @@ weight = 10
   identifier = "current_projects"
  
 [[main]]
-  name = "Biophysics"
+  name = "Overview"
   url = "#projects"
-  weight = "31"
-  hasChildren = true
-  parent = "current_projects_biophysics"
-
-
-[[main]]
-  name = "Soft Matter Physics"
-  url = "#projects"
-  weight = "32"
-  hasChildren = true
-  parent = "current_projects_softmatter"
-
+  weight = "1"
+  parent = "current_projects"
   
 [[main]]
   name = "Membrane Proteins Structure and Function"
-  url = "project/biophysics/membrane_protein/"
-  weight = "311"
-  parent = "current_projects_biophysics"
+  url = "project/membrane_protein/"
+  weight = "2"
+  parent = "current_projects"
   
 [[main]]
   name = "Functional and Mechanical Properties of Biological Soft Matter"
-  url = "project/biophysics/bio_soft_matter/"
-  weight = "312"
-  parent = "current_projects_biophysics"
+  url = "project/soft_matter/"
+  weight = "3"
+  parent = "current_projects"
   
 [[main]]
   name = "Cell-Penetrating Peptides(CPPs) and Drug Delivery"
-  url = "project/biophysics/cpp/"
-  weight = "313"
-  parent = "current_projects_biophysics" 
+  url = "project/cpp/"
+  weight = "4"
+  parent = "current_projects" 
   
 [[main]]
   name = "Path Sampling of Rare Events"
-  url = "project/biophysics/path_sampling/"
-  weight = "314"
-  parent = "current_projects_biophysics" 
+  url = "project/path_sampling/"
+  weight = "5"
+  parent = "current_projects" 
 
 [[main]]
   name = "Theoretical Modeling of a Cell Division and the Min System"
-  url = "project/biophysics/cell_division/"
-  weight = "315"
-  parent = "current_projects_biophysics"
+  url = "project/cell_division/"
+  weight = "6"
+  parent = "current_projects"
   
-
-[[main]]
-  name = "Self-Assembly of Polymers"
-  url = "project/soft_matter_physics/self_assembly/"
-  weight = "321"
-  parent = "current_projects_softmatter"
-
-
-[[main]]
-  name = "Polyelectrolyte-Polyampholyte Complexes"
-  url = "project/soft_matter_physics/pe_pa/"
-  weight = "322"
-  parent = "current_projects_softmatter"
-
-
-
 
 
 [[main]]
