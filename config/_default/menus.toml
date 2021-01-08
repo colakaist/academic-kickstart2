@@ -29,7 +29,8 @@ weight = 100
   url = "#projects"
   weight = "10"
   hasChildren = true
-  parent = "current_projects_biophysics"
+  parent = "current_projects"
+  identifier = "current_projects_biophysics"
 
 
 [[main]]
@@ -37,7 +38,8 @@ weight = 100
   url = "#projects"
   weight = "20"
   hasChildren = true
-  parent = "current_projects_softmatter"
+  parent = "current_projects"
+  identifier = "current_projects_softmatter"
 
   
 [[main]]
@@ -88,23 +90,23 @@ weight = 100
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 40
+  weight = 400
   
 [[main]]
   name = "News"
   url = "#posts"
 #  url = "#post2"
-  weight = 50
+  weight = 500
 
 [[main]]
   name = "Open Positions"
   url = "#positions"
-  weight = 60
+  weight = 600
   
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  weight = 700
 
 
 
