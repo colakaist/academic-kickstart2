@@ -19,61 +19,61 @@ weight = 100
   
 [[main]]
   name = "Research"
-#  url = "#projects"
+  url = "#projects"
   weight = 300
   hasChildren = true
   identifier = "current_projects"
  
 [[main]]
   name = "Biophysics"
-  url = "#projects_biophysics"
+  url = "#projects"
   weight = "10"
-  hasChildren = true
   parent = "current_projects"
+  hasChildren = true
   identifier = "current_projects_biophysics"
 
 
 [[main]]
   name = "Soft Matter Physics"
-  url = "#projects_softmatter"
+  url = "#projects"
   weight = "20"
-  hasChildren = true
   parent = "current_projects"
+  hasChildren = true
   identifier = "current_projects_softmatter"
 
   
 [[main]]
   name = "Membrane Proteins Structure and Function"
 #  url = "project/biophysics/membrane_protein/"
-  url = "#projects_biophysics"
+  url = "#projects"
   weight = "1"
   parent = "current_projects_biophysics"
   
 [[main]]
   name = "Functional and Mechanical Properties of Biological Soft Matter"
 #  url = "project/biophysics/bio_soft_matter/"
-  url = "#projects_biophysics"
+  url = "#projects"
   weight = "2"
   parent = "current_projects_biophysics"
   
 [[main]]
   name = "Cell-Penetrating Peptides(CPPs) and Drug Delivery"
 #  url = "project/biophysics/cpp/"
-  url = "#projects_biophysics"
+  url = "#projects"
   weight = "3"
   parent = "current_projects_biophysics" 
   
 [[main]]
   name = "Path Sampling of Rare Events"
 #  url = "project/biophysics/path_sampling/"
-  url = "#projects_biophysics"
+  url = "#projects"
   weight = "4"
   parent = "current_projects_biophysics" 
 
 [[main]]
   name = "Theoretical Modeling of a Cell Division and the Min System"
 #  url = "project/biophysics/cell_division/"
-  url = "#projects_biophysics"
+  url = "#projects"
   weight = "5"
   parent = "current_projects_biophysics"
   
@@ -81,16 +81,16 @@ weight = 100
 [[main]]
   name = "Self-Assembly of Polymers"
 #  url = "project/soft_matter_physics/self_assembly/"
-  url = "#projects_softmatter"
-  weight = "1"
+  url = "#projects"
+  weight = "6"
   parent = "current_projects_softmatter"
 
 
 [[main]]
   name = "Polyelectrolyte-Polyampholyte Complexes"
 #  url = "project/soft_matter_physics/pe_pa/"
-  url = "#projects_softmatter"
-  weight = "2"
+  url = "#projects"
+  weight = "7"
   parent = "current_projects_softmatter"
 
 

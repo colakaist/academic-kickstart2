@@ -78,20 +78,20 @@ weight = 100
   parent = "current_projects_biophysics"
   
 
-[[main]]
-  name = "Self-Assembly of Polymers"
-#  url = "project/soft_matter_physics/self_assembly/"
-  url = "#projects"
-  weight = "6"
-  parent = "current_projects_softmatter"
+#[[main]]
+#  name = "Self-Assembly of Polymers"
+##  url = "project/soft_matter_physics/self_assembly/"
+#  url = "#projects"
+#  weight = "6"
+#  parent = "current_projects_softmatter"
 
 
-[[main]]
-  name = "Polyelectrolyte-Polyampholyte Complexes"
-#  url = "project/soft_matter_physics/pe_pa/"
-  url = "#projects"
-  weight = "7"
-  parent = "current_projects_softmatter"
+#[[main]]
+#  name = "Polyelectrolyte-Polyampholyte Complexes"
+##  url = "project/soft_matter_physics/pe_pa/"
+#  url = "#projects"
+#  weight = "7"
+#  parent = "current_projects_softmatter"
 
 
 [[main]]
