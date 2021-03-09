@@ -42,6 +42,6 @@ subtitle = ""
 
 +++
 
-Our group is seeking talented and motivated students (interns, Master, PhD). Please contact us if you are interested.
+Our group is seeking talented and motivated students (intern, Master, PhD). Please contact us if you are interested.
 
 
