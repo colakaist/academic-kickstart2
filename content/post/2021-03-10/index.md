@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Group Homepage is open !"
+title: ""
 subtitle: ""
 summary: ""
 authors: []
@@ -28,3 +28,4 @@ image:
 projects: []
 ---
 
+Group Homepage is open !
