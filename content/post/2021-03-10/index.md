@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-Group Homepage is open !
+Our group homepage is open !
