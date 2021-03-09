@@ -42,6 +42,6 @@ subtitle = ""
 
 +++
 
-Soft matter and biological physics are closely related branches of physics because many parts of  biological cells and tissues consist of soft matter systems. Our lab focuses primarily on understanding of the underlying physical mechanisms of biological systems from molecular to cellular scales using theoretical modelings and computer simulations.  Current research topics include membrane proteins structure & function, functional & mechanical properties of biological soft matter, and cell-penetrating peptides(CPPs) & drug delivery.
+Soft matter and biological physics are closely related branches of physics because many parts of  biological cells and tissues consist of soft matter systems. Our lab focuses primarily on understanding of the underlying physical mechanisms of biological systems from molecular to cellular scales using theoretical modelings and computer simulations. We are also interested in modeling and simulations of polyelectrolytes and light harvesting. Current research topics include membrane proteins structure & function, functional & mechanical properties of biological soft matter, and cell-penetrating peptides(CPPs) & drug delivery, etc.
 
 
