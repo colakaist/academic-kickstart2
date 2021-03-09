@@ -31,10 +31,10 @@ education:
   - course: PhD in Theoretical Physics
     institution: Yonsei University
     year: 1997
-  - course: MSc in Theoretical Physics
+  - course: MS in Theoretical Physics
     institution: Yonsei University
     year: 1992
-  - course: BSc in Physics
+  - course: BS in Physics
     institution: Yonsei University
     year: 1989
 
