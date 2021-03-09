@@ -42,6 +42,6 @@ subtitle = ""
 
 +++
 
-Coming soon ...
+Our group is seeking talented and motivated students (interns, Master, PhD). Please contact us if you are interested.
 
 
