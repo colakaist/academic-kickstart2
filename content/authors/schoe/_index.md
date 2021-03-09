@@ -28,10 +28,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Theoretical Physics
+  - course: PhD in Theoretical Nuclear Physics
     institution: Yonsei University
     year: 1997
-  - course: MS in Theoretical Physics
+  - course: MS in Theoretical Nuclear Physics
     institution: Yonsei University
     year: 1992
   - course: BS in Physics
