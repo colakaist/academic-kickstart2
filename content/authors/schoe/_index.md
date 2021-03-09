@@ -21,7 +21,7 @@ role: Associate Professor of Energy Science & Engineering
 #bio: ""
 #My research interests include 
 
-research areas:
+interest:
 - Theoretical Physics
 - Computational Physics
 - Computational Biophysics
