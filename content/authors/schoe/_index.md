@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Associate Professor of Energy Science and Engineering
 
 # Organizations/Affiliations
 #organizations:
