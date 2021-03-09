@@ -21,7 +21,7 @@ role: Associate Professor
 #bio: ""
 #My research interests include 
 
-interests:
+research areas:
 - Theoretical Physics
 - Computational Physics
 - Computational Biophysics
