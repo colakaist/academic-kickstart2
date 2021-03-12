@@ -78,15 +78,20 @@ weight = 100
   parent = "current_projects_biophysics"
 
 
+[[main]]
+  name = "Light-harvesting: Mechanisms of Energy Transfer"
+#  url = "project/biophysics/cell_division/"
+  url = "#projects_softmatter"
+  weight = "15"
+  parent = "current_projects_biophysics"
+  
 
-
-
-#[[main]]
-#  name = "Self-Assembly of Polymers"
+[[main]]
+  name = "Self-Assembly of Polymers"
 ##  url = "project/soft_matter_physics/self_assembly/"
-#  url = "#projects"
-#  weight = "6"
-#  parent = "current_projects_softmatter"
+  url = "#projects"
+  weight = "6"
+  parent = "current_projects_softmatter"
 
 
 #[[main]]
