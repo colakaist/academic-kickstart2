@@ -46,60 +46,60 @@ weight = 100
   name = "Membrane Proteins Structure and Function"
 #  url = "project/biophysics/membrane_protein/"
   url = "#projects_biophysics"
-  weight = "11"
+  weight = "1"
   parent = "current_projects_biophysics"
   
 [[main]]
   name = "Functional and Mechanical Properties of Biological Soft Matter"
 #  url = "project/biophysics/bio_soft_matter/"
   url = "#projects_biophysics"
-  weight = "12"
+  weight = "2"
   parent = "current_projects_biophysics"
   
 [[main]]
   name = "Cell-Penetrating Peptides(CPPs) and Drug Delivery"
 #  url = "project/biophysics/cpp/"
   url = "#projects_biophysics"
-  weight = "13"
+  weight = "3"
   parent = "current_projects_biophysics" 
   
 [[main]]
   name = "Path Sampling of Rare Events"
 #  url = "project/biophysics/path_sampling/"
   url = "#projects_biophysics"
-  weight = "14"
+  weight = "4"
   parent = "current_projects_biophysics" 
 
 [[main]]
   name = "Theoretical Modeling of a Cell Division and the Min System"
 #  url = "project/biophysics/cell_division/"
   url = "#projects_biophysics"
-  weight = "15"
+  weight = "5"
   parent = "current_projects_biophysics"
 
 
 [[main]]
   name = "Light-harvesting: Mechanisms of Energy Transfer"
 #  url = "project/biophysics/cell_division/"
-  url = "#projects_softmatter"
-  weight = "15"
+  url = "#projects_biophysics"
+  weight = "6"
   parent = "current_projects_biophysics"
   
 
 [[main]]
   name = "Self-Assembly of Polymers"
 ##  url = "project/soft_matter_physics/self_assembly/"
-  url = "#projects"
-  weight = "6"
+  url = "#projects_softmatter"
+  weight = "7"
   parent = "current_projects_softmatter"
 
 
-#[[main]]
-#  name = "Polyelectrolyte-Polyampholyte Complexes"
+[[main]]
+  name = "Polyelectrolyte-Polyampholyte Complexes"
 ##  url = "project/soft_matter_physics/pe_pa/"
-#  url = "#projects"
-#  weight = "7"
-#  parent = "current_projects_softmatter"
+  url = "#projects_softmatter"
+  weight = "8"
+  parent = "current_projects_softmatter"
 
 
 [[main]]
