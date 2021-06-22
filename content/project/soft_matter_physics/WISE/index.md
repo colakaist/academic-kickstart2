@@ -53,6 +53,6 @@ slides: ""
 
 ---
 
-Recently, water-in-salt electrolytes (WISEs) have attracted much attention due to their wider electrochemical stability window than conventional dilute aqueous electrolytes. WISEs have been used in batteries and supercacitors, however, the ion transport mechanism has not been fully understood. Using modeling and simulations we want to identify the mechanism of ion transport, a key function that is directly related to the rate capabilities of batteries.
+Recently, water-in-salt electrolytes (WISEs) have attracted much attention due to their wider electrochemical stability window than conventional dilute aqueous electrolytes. WISEs have been used in batteries and supercacitors, however, the ion transport mechanism has not been fully understood. Using modeling and simulations we want to identify the mechanism of ion transport, a key function that is directly related to the rate capabilities of batteries, and to overcome their shortcomings (e.g., high viscosity and low conductivity)
 
 
