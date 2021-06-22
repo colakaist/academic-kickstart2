@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Ion Transport in Water-In-Salt Electrolytes(WISEs)"
+title: "Ion Transport in Water-In-Salt Electrolytes (WISEs)"
 summary: ""
 
 authors: []
