@@ -111,7 +111,7 @@ weight = 100
 
 [[main]]
   name = "Ion Transport in Water-in-salt Electrolytes(WISEs)"
-##  url = "project/soft_matter_physics/ion_transport/"
+##  url = "project/soft_matter_physics/WISE/"
 #  url = "#projects_softmatter"
   url = "#projects"
   weight = "9"
