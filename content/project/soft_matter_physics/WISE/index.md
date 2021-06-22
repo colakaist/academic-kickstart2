@@ -20,6 +20,10 @@ external_link: ""
 #  caption: "A snapshot from Molecular Dynamics(MD) simulations of vSGLT"
 #  focal_point: "Center"
 #  preview_only: false
+image:
+  caption: "Molecular dynamics (MD) simulation of LiTFSI + water"
+  focal_point: "Center"
+  preview_only: false
 
 
 # Custom links (optional).
