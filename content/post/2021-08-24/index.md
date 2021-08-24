@@ -7,7 +7,7 @@ summary: ""
 authors: []
 tags: []
 categories: []
-date: 
+date: "2021-08-24"
 lastmod: 
 featured: false
 draft: false
