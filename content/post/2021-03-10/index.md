@@ -8,7 +8,7 @@ authors: []
 tags: []
 categories: []
 date: 
-lastmod: "2021-03-10"
+lastmod: 2021-03-10
 featured: true
 draft: false
 
