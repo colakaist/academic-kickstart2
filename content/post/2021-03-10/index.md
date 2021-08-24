@@ -7,9 +7,9 @@ summary: ""
 authors: []
 tags: []
 categories: []
-date: 
+date:  
 lastmod: 2021-03-10
-featured: true
+featured: false
 draft: false
 
 # Featured image
