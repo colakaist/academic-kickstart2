@@ -11,8 +11,8 @@ date:
 lastmod: 
 #featured: false
 #draft: false
-featured: false
-draft: true
+featured: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
