@@ -9,7 +9,8 @@ tags: []
 categories: []
 date: 
 lastmod: 
-featured: false
+#featured: false
+featured: true
 draft: false
 
 # Featured image
