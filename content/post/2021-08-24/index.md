@@ -9,7 +9,7 @@ title: "2021-08-24"
 #categories: []
 #date: "2021-08-24"
 #lastmod: "2021-08-24"
-#featured: false
+featured: true
 #draft: false
 
 
