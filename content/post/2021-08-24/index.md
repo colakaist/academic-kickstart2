@@ -11,7 +11,7 @@ date:
 lastmod: 
 #featured: false
 #draft: false
-featured: true
+featured: false
 draft: true
 
 # Featured image
