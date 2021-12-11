@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-#title: ""
+title: "2021-08-24"
 #subtitle: ""
 #summary: ""
 #authors: []
 #tags: []
 #categories: []
-date: "2021-08-24"
+#date: "2021-08-24"
 #lastmod: "2021-08-24"
 #featured: false
 #draft: false
