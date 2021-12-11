@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-#title: ""
-subtitle: "2021-12-11"
+title: "2021-12-11"
+#subtitle: "2021-12-11"
 #summary: ""
 #authors: []
 #tags: []
@@ -10,7 +10,7 @@ subtitle: "2021-12-11"
 #date: 
 #lastmod: 
 featured: true
-#draft: false
+draft: false
 
 
 # Featured image
@@ -26,7 +26,7 @@ featured: true
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+#projects: []
 ---
 
 A new paper titled by "Free energy analyses of cell-penetrating peptides using the weighted ensemble method" has been published in Membranes, 11, 974 (2021).  
