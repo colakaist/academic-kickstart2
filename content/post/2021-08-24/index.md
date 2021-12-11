@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "2021-08-24"
+#title: "2021-08-24"
 #subtitle: ""
 #summary: ""
 #authors: []
