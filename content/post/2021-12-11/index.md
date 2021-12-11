@@ -25,7 +25,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [cpp,path_sampling]
 ---
 
 A new paper titled by "Free energy analyses of cell-penetrating peptides using the weighted ensemble method" was published in Membranes, 11, 974 (2021).  
