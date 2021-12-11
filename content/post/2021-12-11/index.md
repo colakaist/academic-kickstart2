@@ -28,5 +28,5 @@ image:
 projects: []
 ---
 
-A new paper titled by "Free energy analyses of cell-penetrating peptides using the weighted ensemble method" was published in Membranes, 11, 974 (2021).  
+A new paper titled by "Free energy analyses of cell-penetrating peptides using the weighted ensemble method" has been published in Membranes, 11, 974 (2021).  
 
