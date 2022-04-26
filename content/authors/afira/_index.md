@@ -22,8 +22,9 @@ role: PhD Student
 #My research interests include 
 
 interests:
-- 
-- 
+- 2D Materials
+- Self-assembly of Polymers
+- Energy Applications
 
 education:
   courses:
