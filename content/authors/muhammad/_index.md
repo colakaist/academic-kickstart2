@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MS Candidate
+role: MS Student
 
 # Organizations/Affiliations
 #organizations:
