@@ -10,7 +10,8 @@ authors:
 superuser: false
 
 # Role/position
-role: MS Student
+role: MS Student, Dept. of Energy Science & Engineering
+
 
 # Organizations/Affiliations
 #organizations:
