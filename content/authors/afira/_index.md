@@ -10,7 +10,8 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD Student, Dept. of Energy Science & Engineering
+
 
 # Organizations/Affiliations
 #organizations:
