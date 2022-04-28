@@ -29,12 +29,12 @@ interests:
 
 education:
   courses:
-  - course: MS in Physics (2018)
-#    institution: Riphah International University, Pakistan
-#    year: 2018
-  - course: BS in Physics (2013)
-#    institution: Bahauddin Zakariya University, Pakistan
-#    year: 2013
+  - course: MS in Physics 
+    institution: Riphah International University, Pakistan
+    year: 2018
+  - course: BS in Physics 
+    institution: Bahauddin Zakariya University, Pakistan
+    year: 2013
 
 #experience:
 #  courses:
