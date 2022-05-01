@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: April 2022 - present, Dept. of Science & Engineering
+role: MS Student (April 2022 - present)
 
 
 # Organizations/Affiliations
@@ -72,7 +72,7 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: ["MS Students"]
+user_groups: ["Graduate Students"]
 #- Principal Invesitigators
 ---
 
