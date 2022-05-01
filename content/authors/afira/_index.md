@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student, Dept. of Energy Science & Engineering
+role: 2022-present
 
 
 # Organizations/Affiliations
