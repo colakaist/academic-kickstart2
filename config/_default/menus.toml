@@ -43,13 +43,21 @@ weight = 100
 
   
 [[main]]
+  name = "Theoretical Physics"
+  url = "#projects"
+  weight = "30"
+  parent = "current_projects"
+  hasChildren = true
+  identifier = "current_projects_theoreticalphysics"  
+  
+[[main]]
   name = "Membrane Proteins Structure and Function"
-  url = "project/biophysics/membrane_protein/"
+#  url = "project/biophysics/membrane_protein/"
 #  url = "#projects_biophysics"
-#  url = "#projects"
+  url = "#projects"
   weight = "1"
   parent = "current_projects_biophysics"
-  hasChildren = false
+#  hasChildren = false
 
 [[main]]
   name = "Functional and Mechanical Properties of Biological Soft Matter"
