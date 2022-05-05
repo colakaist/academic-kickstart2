@@ -44,12 +44,13 @@ weight = 100
   
 [[main]]
   name = "Membrane Proteins Structure and Function"
-#  url = "project/biophysics/membrane_protein/"
+  url = "project/biophysics/membrane_protein/"
 #  url = "#projects_biophysics"
-  url = "#projects"
+#  url = "#projects"
   weight = "1"
   parent = "current_projects_biophysics"
-  
+  hasChildren = false
+
 [[main]]
   name = "Functional and Mechanical Properties of Biological Soft Matter"
 #  url = "project/biophysics/bio_soft_matter/"
