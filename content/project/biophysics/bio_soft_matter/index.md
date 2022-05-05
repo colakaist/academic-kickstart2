@@ -9,6 +9,7 @@ tags: []
 categories: [Biophysics]
 #date: 
 relatedpublications: []
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
