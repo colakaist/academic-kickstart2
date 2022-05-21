@@ -51,4 +51,4 @@ slides: ""
 
 ---
 
-In order to understand mechanisms of various biological functions at molecular scales it is crucial to identify functional and mechanical properties of basic structures, such as peptides, DNAs, membranes(bilayer or monolayer), etc. We have been developing theoretical models of these structures to investigate their mechanical properties and interactions between those structures.
+To understand mechanisms of various biological functions at molecular scales, it is crucial to identify basic structures' functional and mechanical properties, such as peptides, DNAs, membranes(bilayer or monolayer), etc. We have been developing theoretical models of these structures to investigate their mechanical properties and interactions between those structures.
