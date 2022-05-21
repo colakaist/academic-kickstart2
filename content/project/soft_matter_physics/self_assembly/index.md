@@ -53,10 +53,10 @@ slides: ""
 
 ---
 
-The self-assembly of polymers is one of emerging fields within material sciences, offering many potential applications in nanotechnology as well as in nanobiotechnology. It is necessary to investigate the energy landscape between the self-assembled polymers, and to explore the fate of these polymers and how the final morphology can be obtained. 
+The self-assembly of polymers is one of the emerging fields within material sciences, offering many potential applications in nanotechnology and nanobiotechnology. It is necessary to investigate the energy landscape between the self-assembled polymers and explore the fate of these polymers and how the final morphology can be obtained. 
 
 One can generate free energy profiles for the conformational changes using the umbrella sampling and the weighted histogram analysis method (WHAM) within molecular dynamics (MD) simulations. WHAM has been commonly used to obtain the energy landscape for ligand-protein binding and the energy profiles for the conformational changes of proteins. Recently, this method was successfully applied to study polymer absorption (e.g., ethylene/hexene copolymer adsorption onto graphene). Using this simulation technique one can estimate energy barriers between the transition states and how these barriers impact the aggregation kinetics. 
 
-Another interesting topic in the self-assembly will be transition paths between the states. One can find transition paths and transition rates using the weighted ensemble (WE) method, one of powerful and flexible path sampling techniques in MD simulations. This technique can reveal underlying mechanisms of various nano- and nanobio-systems.     
+Another interesting topic in the self-assembly will be transition paths between the states. One can find transition paths and transition rates using the weighted ensemble (WE) method, a powerful and flexible path sampling technique in MD simulations. This technique can reveal the underlying mechanisms of various nano- and nanobio-systems.     
 
 
