@@ -53,6 +53,6 @@ slides: ""
 
 ---
 
-Membrane proteins(e.g, enzymes, receptors, ion channels, transporters, etc.) play crucial roles in all organisms, and they are the major drug targets for pharmaceuticals. Our general goal is to understand functional properties of various membrane proteins and to identify suitable drugs to control their biological functions.
+Membrane proteins(e.g, enzymes, receptors, ion channels, transporters, etc.) play crucial roles in all organisms, and they are the primary drug targets for pharmaceuticals. Our general goal is to understand various membrane proteins' functional properties and identify suitable drugs to control their biological functions.
 
 
