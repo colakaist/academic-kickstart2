@@ -53,10 +53,10 @@ slides: ""
 
 ---
 
-Polyelectrolytes(PEs) are polymers carrying either positively or negatively charged ionizable groups while polyampholytes(PAs) are charged polymers with both positively and negatively charged groups. The adsorption of PEs and PAs onto charged chains and surfaces has been extensively studied for a long time because of its importance in biology, materials science, soft matter research, etc. 
+Polyelectrolytes(PEs) are polymers carrying either positively or negatively charged ionizable groups, while polyampholytes(PAs) are charged polymers with both positively and negatively charged groups. The adsorption of PEs and PAs onto charged chains and surfaces has been extensively studied for a long time because of its importance in biology, materials science, soft matter research, etc. 
 
-The structure of PE-PA complexes depends on the charge distribution of PA chain, and the stabilization of final products is mainly due to electrostatic attraction between the opposite charges. It has been known in experiments that the driving entropy forces originate from the rearrangement of water molecules around the polymer chains during the complexation. 
+The structure of PE-PA complexes depends on the charge distribution of the PA chain, and the stabilization of final products is mainly due to electrostatic attraction between the opposite charges. It has been known in experiments that the driving entropy forces originate from the rearrangement of water molecules around the polymer chains during the complexation. 
 
-Computer simulations (e.g, molecular dynamics simulations) can quantify the effect of charge sequence on chain conformation and solution properties. We want to investigate the effects of salt concentrations and the charge distribution of PA chains on the formation of PE-PA complexes using MD simulations.
+Computer simulations (e.g., MD simulations) can quantify the effect of charge sequence on chain conformation and solution properties. We want to investigate the effects of salt concentrations and the charge distribution of PA chains on the formation of PE-PA complexes using MD simulations.
 
 
