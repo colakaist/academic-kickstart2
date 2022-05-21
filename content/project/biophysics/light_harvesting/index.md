@@ -53,9 +53,9 @@ slides: ""
 
 ---
 
-Light-harvesting is one of research areas which studies materials and molecules that capture photons of solar light. This includes studies to better understand the light-harvesting properties of photosynthetic organisms or those of artificial systems that are designed to promote photochemical reactions. Energy transfer is a key process in both natural and artificial photosynthesis. 
+Light-harvesting is one of the research areas that study materials and molecules that capture solar light photons. This includes studies to understand better the light-harvesting properties of photosynthetic organisms or artificial systems designed to promote photochemical reactions. Energy transfer is a critical process in both natural and artificial photosynthesis. 
 
-Light-harvesting components of photosynthetic organisms are complex, many-body quantum systems. Specialized pigment-protein complexes transform sunlight into electronic excitations delivered to reaction centers. There is evidence that quantum coherence between electronic excited states plays an essential role in energy transfer, however, the significance of coherent dynamics for light-harvesting function is still unclear. 
+Light-harvesting components of photosynthetic organisms are complex, many-body quantum systems. Specialized pigment-protein complexes transform sunlight into electronic excitations delivered to reaction centers. There is evidence that quantum coherence between electronically excited states plays an essential role in energy transfer. However, the significance of coherent dynamics for the light-harvesting function is still unclear. 
 
-We are interested in modeling Hamiltonian for describing photosynthetic excitation energy transfer between the pigment-protein complexes and determining key components for energy transfer. Our goal is to identify mechanisms of coherent energy transfer and to use these mechanisms to improve other light-driven phenomena. Our results may provide a basis for design of efficient light-harvesting photonic devices. 
+We are interested in modeling Hamiltonian for describing photosynthetic excitation energy transfer between the pigment-protein complexes and determining critical components for energy transfer. Our goal is to identify coherent energy transfer mechanisms and use these mechanisms to improve other light-driven phenomena. Our results may provide a basis for the design of efficient light-harvesting photonic devices. 
 
