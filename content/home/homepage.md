@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Welcome to the BioSM Lab@DGIST"
+title = "Welcome to the BioSM Group@DGIST"
 subtitle = ""
 
 [design]
@@ -42,6 +42,6 @@ subtitle = ""
 
 +++
 
-Soft matter and biological physics are closely related branches of physics because many parts of  biological cells and tissues consist of soft matter systems. Using theoretical modelings and computer simulations our lab focuses primarily on understanding of the underlying physical mechanisms of biological systems from molecular to cellular scales and investigating free energy landscapes and conformational changes of polymer complexes. We are also interested in modeling and simulations of aqueous electrolytes and identifying mechanism of ion transport. Current research topics include membrane proteins structure & function, functional & mechanical properties of biological soft matter, cell-penetrating peptides(CPPs) & drug delivery, ion transport in water-in-salt electrolytes(WISEs), etc.
+Soft matter and biological physics are closely related branches of physics because many parts of  biological cells and tissues consist of soft matter systems. Using theoretical modelings and computer simulations our group focuses primarily on understanding of the underlying physical mechanisms of biological systems from molecular to cellular scales and investigating free energy landscapes and conformational changes of polymer complexes. We are also interested in modeling and simulations of aqueous electrolytes and identifying mechanism of ion transport. Current research topics include membrane proteins structure & function, functional & mechanical properties of biological soft matter, cell-penetrating peptides(CPPs) & drug delivery, ion transport in water-in-salt electrolytes(WISEs), etc.
 
 
