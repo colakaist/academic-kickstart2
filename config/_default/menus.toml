@@ -140,7 +140,7 @@ weight = 100
 
 [[main]]
   name = "Photos"
-  url = "#photos"
+  url = "#talks"
   weight = 600
 
 [[main]]
