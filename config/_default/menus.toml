@@ -139,6 +139,11 @@ weight = 100
   weight = 500
 
 [[main]]
+  name = "Photos"
+  url = "#photos"
+  weight = 510
+
+[[main]]
   name = "Open Positions"
   url = "#positions"
   weight = 600
