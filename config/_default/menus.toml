@@ -141,17 +141,17 @@ weight = 100
 [[main]]
   name = "Photos"
   url = "#photos"
-  weight = 510
+  weight = 600
 
 [[main]]
   name = "Open Positions"
   url = "#positions"
-  weight = 600
+  weight = 700
   
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 700
+  weight = 800
 
 
 
