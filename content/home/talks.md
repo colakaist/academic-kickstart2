@@ -9,6 +9,7 @@ weight = 55  # Order that this section will appear.
 
 title = "Photos"
 subtitle = ""
+showthetime = false
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
