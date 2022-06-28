@@ -23,8 +23,8 @@ role: Intern (June 2022 - present)
 #My research interests include 
 
 interests:
-#- Soft Matter Physics
-#- Biophysics
+- 
+ 
 
 education:
   courses:
