@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Intern (June 2022 - present)
+role: Intern (June 2022 ~ )
 
 
 # Organizations/Affiliations
