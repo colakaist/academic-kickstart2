@@ -33,7 +33,7 @@ abstract: "The transport mechanism of cell-penetrating peptides (CPPs) has not b
 #tags:
 #- Source Themes
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
