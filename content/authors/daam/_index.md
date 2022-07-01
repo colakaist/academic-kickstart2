@@ -23,7 +23,8 @@ role: Intern (June 2022 ~ )
 #My research interests include 
 
 interests:
-- 
+- cell culturing matrix for organoid
+- computer-aided drug design
  
 
 education:
