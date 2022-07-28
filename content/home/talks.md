@@ -5,7 +5,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 55  # Order that this section will appear.
+weight = 600  # Order that this section will appear.
 
 title = "Group Photos"
 subtitle = ""
@@ -21,7 +21,7 @@ subtitle = ""
   offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+  #order = "desc"
 
   # Filter posts by a taxonomy term.
   [content.filters]
