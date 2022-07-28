@@ -22,14 +22,16 @@ subtitle = ""
 
   # Page order. Descending (desc) or ascending (asc) date.
   #order = "desc"
+  sort_by = "date"
+  sort_ascending = "false"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
+#  [content.filters]
+#    tag = ""
+#    category = ""
+#    publication_type = ""
+#    author = ""
+#    exclude_featured = false
 #    exclude_past = false
 #    exclude_future = false
     
