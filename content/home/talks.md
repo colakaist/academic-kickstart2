@@ -22,9 +22,9 @@ subtitle = ""
   offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-  #sort_by = 'date'
-  #sort_ascending = "false"
+  #order = "desc"
+  sort_by = "date"
+  sort_ascending = "false"
 
   # Filter posts by a taxonomy term.
 [content.filters]
@@ -33,8 +33,8 @@ subtitle = ""
   publication_type = ""
   author = ""
   exclude_featured = false
-  #  exclude_past = false
-  #  exclude_future = false
+  exclude_past = false
+  exclude_future = false
     
 [design]
   # Toggle between the various page layout types.
