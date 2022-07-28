@@ -22,7 +22,8 @@ subtitle = ""
 
   # Page order. Descending (desc) or ascending (asc) date.
   #order = "desc"
-  sort_by = 'title'
+  #sort_by = 'title'
+  sort_by = 'date'
   sort_ascending = false
 
   # Filter posts by a taxonomy term.
