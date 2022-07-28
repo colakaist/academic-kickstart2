@@ -27,15 +27,14 @@ subtitle = ""
   sort_ascending = "false"
 
   # Filter posts by a taxonomy term.
-#[content.filters]
-#[filters]
+[content.filters]
   tag = ""
   category = ""
   publication_type = ""
   author = ""
-  exclude_featured = "false"
-  exclude_past = "false"
-  exclude_future = "false"
+  exclude_featured = "true"
+  exclude_past = "true"
+  exclude_future = "true"
     
 [design]
   # Toggle between the various page layout types.
