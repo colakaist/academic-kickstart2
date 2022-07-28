@@ -2,6 +2,7 @@
 # A Recent and Upcoming Talks section created with the Pages widget.
 # This section displays recent talks from `content/talk/`.
 
+#widget = "post"  # See https://sourcethemes.com/academic/docs/page-builder/
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -12,7 +13,8 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
+  #page_type = "talk"
+  page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
