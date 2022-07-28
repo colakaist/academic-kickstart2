@@ -13,8 +13,8 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
-  #page_type = "post"
+  #page_type = "talk"
+  page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -24,8 +24,8 @@ subtitle = ""
 
   # Page order. Descending (desc) or ascending (asc) date.
   #order = "desc"
-  sort_by = 'date'
-  sort_ascending = "false"
+  #sort_by = 'date'
+  #sort_ascending = "false"
 
   # Filter posts by a taxonomy term.
 #  [content.filters]
