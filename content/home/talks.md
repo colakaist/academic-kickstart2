@@ -16,25 +16,25 @@ subtitle = ""
   page_type = "talk"
  
   # Choose how much pages you would like to display (0 = all pages)
-  #count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
-  #offset = 0
+  offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
   #order = "desc"
   #sort_by = 'date'
-  #sort_ascending = "false"
+  sort_ascending = "false"
 
   # Filter posts by a taxonomy term.
-#  [content.filters]
-#    tag = ""
-#    category = ""
-#    publication_type = ""
-#    author = ""
-#    exclude_featured = false
-#    exclude_past = false
-#    exclude_future = false
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = ""
+    author = ""
+    exclude_featured = false
+    exclude_past = false
+    exclude_future = false
     
 [design]
   # Toggle between the various page layout types.
