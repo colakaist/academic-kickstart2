@@ -27,7 +27,8 @@ subtitle = ""
   sort_ascending = "false"
 
   # Filter posts by a taxonomy term.
-[content.filters]
+#[content.filters]
+[filters]
   tag = ""
   category = ""
   publication_type = ""
