@@ -14,7 +14,6 @@ date: 2022-06-17T12:00:00
 #   3 = Card
 #view : 3
 
-image: "BioSM06172022.jpg"
 
 # Optional header image (relative to `static/img/` folder).   # or 'static/media' folder ?
 #header:
