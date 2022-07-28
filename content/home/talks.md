@@ -2,8 +2,8 @@
 # A Recent and Upcoming Talks section created with the Pages widget.
 # This section displays recent talks from `content/talk/`.
 
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
-#widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+#widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
@@ -22,19 +22,19 @@ subtitle = ""
   offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  #order = "desc"
+  order = "desc"
   #sort_by = 'date'
-  sort_ascending = "false"
+  #sort_ascending = "false"
 
   # Filter posts by a taxonomy term.
-#  [content.filters]
-#    tag = ""
-#    category = ""
-#    publication_type = ""
-#    author = ""
-#    exclude_featured = false
-#    exclude_past = false
-#    exclude_future = false
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = ""
+    author = ""
+    exclude_featured = false
+    exclude_past = false
+    exclude_future = false
     
 [design]
   # Toggle between the various page layout types.
@@ -42,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -64,10 +64,10 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
-#[advanced]
-# # Custom CSS. 
-# css_style = ""
-# 
-# # CSS class.
-# css_class = ""
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
 +++
