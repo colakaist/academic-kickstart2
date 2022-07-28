@@ -15,8 +15,8 @@ date: 2022-07-28T10:00:00
 #view: 3
 
 # Optional header image (relative to `static/img/` folder).   # or 'static/media/' folder ?
-header:
-  caption: ""
-  image: BioSM07282022.jpg
+#header:
+#  caption: ""
+#  image: BioSM07282022.jpg
 ---
 
