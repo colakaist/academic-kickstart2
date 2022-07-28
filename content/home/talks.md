@@ -16,7 +16,7 @@ subtitle = ""
   page_type = "talk"
  
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 5
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -64,10 +64,10 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
+#[advanced]
+# # Custom CSS. 
+# css_style = ""
+# 
+# # CSS class.
+# css_class = ""
 +++
