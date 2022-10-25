@@ -22,10 +22,16 @@ categories: ["Biophysics"]
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "http://arxiv.org/abs/2206.14552"
+publication: "arXiv:2206.14552"
 publication_short: ""
 
-abstract: "In this study, we report a single Arg9(R9) peptide translocation across a DOPC/DOPG(4:1) model membrane within an order of a few tens ns scale by using the weighted ensemble(WE) method. We identify how water molecules play a role during the translocation and show how the orientation(tilt angle) of Arg9 affects the translocation. We also observe lipid flip-flops during the simulations and show how this is related to the water flow and the translocation of peptides."  
+abstract: "A spontaneous translocation of cell-penetrating peptides(CPPs) in all-atom molecular dynamics(MD) simulations is not expected within a short time scale
+(e.g., a few hundred ns) because it is believed that the time required for the translocation of usual CPPs is on the order of minutes. In this study, we
+report a single Arg9(R9) peptide translocation across a DOPC/DOPG(4:1) model membrane within an order of a few tens ns scale by using the weighted
+ensemble(WE) method, one of the most powerful and flexible path sampling techniques. We present free energy profiles of the translocation across the
+membrane and identify how water molecules play a role during the translocation. We also show how the orientation of Arg9 affects the translocation and how
+lipid molecules were transported along with Arg9. Our approach can help study interactions of CPPs with various model membranes within MD simulation approaches."
+ 
 
 # Summary. An optional shortened abstract.
 #summary: []
