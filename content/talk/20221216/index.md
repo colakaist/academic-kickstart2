@@ -1,6 +1,6 @@
 ---
-title: "Last day of Classes (December 2022)"
-#subtitle: "2022-07-28"
+title: "Last day of Classes (before the Department's Happy Hour) (December 2022)"
+#subtitle: "2022-12-16"
 date: "2022-12-16T18:00:00Z"
 #time: "13:00 PM"
 #show_date: false
@@ -17,7 +17,7 @@ date: "2022-12-16T18:00:00Z"
 # Optional header image (relative to `static/img/` folder).   # or 'static/media/' folder ?
 #header:
 #caption: ""
-#image: "BioSM12162022.jpg"
+# image: "BioSM12162022.jpg"
 ---
 
 
