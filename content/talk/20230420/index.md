@@ -1,5 +1,5 @@
 ---
-title: "2023 KPS Spring meeting (April 2023)"
+title: "2023 KPS Spring Meeting (April 2023)"
 #subtitle: "2022-06-17"
 date: "2023-04-20T18:00:00Z"
 #time: "13:00 PM"
