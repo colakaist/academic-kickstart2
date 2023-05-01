@@ -19,6 +19,7 @@ subtitle = ""
                  "Undergraduate Students",
                  "Administration",
                  "Visitors",
+                 "Interns",
                  "Alumni"]
 
 [design]
