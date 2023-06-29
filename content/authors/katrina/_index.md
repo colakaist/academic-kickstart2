@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Intern (June 2023 ~ )
+role: Exchange student (June 2023 ~ )
 
 
 # Organizations/Affiliations
