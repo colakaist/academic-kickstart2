@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: BE Candidate in Aerospace Engineering 
+  - course: BS Candidate in Aerospace Engineering 
     institution: University of Virginia, USA
     year: 2026
 
