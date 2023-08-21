@@ -1,7 +1,7 @@
 ---
 title: "Farewell Party for Katrina (August 2023)"
 #subtitle: "2022-06-17"
-date: "2023-08-10T18:00:00Z"
+date: "2023-08-10T19:00:00Z"
 #time: "13:00 PM"
 #show_date: false
 #show_time: false
