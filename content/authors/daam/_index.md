@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: BS Candidate in Biotechnology & Bioinformatics
+  - course: BS in Biotechnology & Bioinformatics
     institution: Korea University Sejong Campus
     year: 2023
 
