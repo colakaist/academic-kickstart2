@@ -1,5 +1,5 @@
 ---
-title: "External electric field effect on the translocation of R-derivatives peptides across a symmetric lipid bilayer using umbrella sampling"
+title: "Computational insights and phase transitions of ruthenium alloy using classical molecular dynamics"
 authors: [A. Mariam, S. Choe]
 #- schoe
 
