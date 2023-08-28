@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Electrolytes for Li-ion Transport and material design"
+title: "Electrolytes for Li-ion Transport and Material Design"
 summary: ""
 
 authors: []
