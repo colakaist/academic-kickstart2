@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Ion Transport in Water-In-Salt Electrolytes (WISEs)"
+title: "Electrolytes for Li-ion Transport"
 summary: ""
 
 authors: []
@@ -57,6 +57,6 @@ slides: ""
 
 ---
 
-Recently, water-in-salt electrolytes (WISEs) have attracted much attention due to their wider electrochemical stability window than conventional dilute aqueous electrolytes. WISEs have been used in batteries and supercapacitors, however, the ion transport mechanism has not been fully understood. Using modeling and simulations, we want to identify the mechanism of ion transport, a key function that is directly related to the rate capabilities of batteries, and to overcome shortcomings of WISEs (e.g., high viscosity and low conductivity)
+Water-in-salt electrolytes (WISEs) have recently attracted much attention due to their wider electrochemical stability window than conventional dilute aqueous electrolytes. WISEs have been used in batteries and supercapacitors. However, the ion transport mechanism has not been fully understood. Using modeling and simulations, we want to identify the mechanism of ion transport, an essential function directly related to the rate capabilities of batteries, and to overcome shortcomings of WISEs (e.g., high viscosity and low conductivity). 
 
 
