@@ -57,8 +57,6 @@ slides: ""
 
 ---
 
-Water-in-salt electrolytes (WISEs) have recently attracted much attention due to their wider electrochemical stability window than conventional dilute aqueous electrolytes. WISEs have been used in batteries and supercapacitors. However, the ion transport mechanism has not been fully understood. Using modeling and simulations, we want to identify the mechanism of ion transport, an essential function directly related to the rate capabilities of batteries, and to overcome shortcomings of WISEs (e.g., high viscosity and low conductivity). 
+Water-in-salt electrolytes (WISEs) have garnered significant interest recently owing to their expanded electrochemical stability window, surpassing that of conventional diluted aqueous electrolytes. This heightened stability has positioned WISEs as components in batteries and supercapacitors. Nevertheless, the precise mechanism governing ion transport within WISEs remains elusive. Employing a combination of modeling and simulations, our objective is to unravel the ion transport dynamics, a pivotal facet intrinsically linked to the rate capabilities of batteries. Furthermore, our research aims to address the limitations of WISEs, such as their elevated viscosity and diminished conductivity.
 
-Using modeling and simulations, we have also been studying various materials' functional and mechanical properties. 
-
-
+In addition to these endeavors, our research pursuits encompass the investigation of functional and mechanical properties across a spectrum of materials. Through the use of modeling and simulations, we delve into these properties to gain a comprehensive understanding.
