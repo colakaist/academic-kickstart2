@@ -50,5 +50,4 @@ slides: ""
 
 ---
 
-In E. coli, the Min protein system, which consists of Min C, Min D, and Min E proteins, plays a vital role in positioning the cell division. We have been working on partial differential equations which describe the Min system. Our goal is to investigate a correlation between concentrations of each protein and a cell division site using theoretical modeling and computer simulations.  
-
+Within E. coli, the Min protein system—comprising Min C, Min D, and Min E proteins—exerts a crucial function in orchestrating cell division positioning. Our focus has revolved around formulating partial differential equations that capture the dynamics of the Min system. Our aim is to explore the relationship between the concentrations of each protein and the localization of the cell division site. To achieve this, we employ a blend of theoretical modeling and computer simulations.
