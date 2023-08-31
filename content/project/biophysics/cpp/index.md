@@ -49,5 +49,5 @@ slides: ""
 #projectimagecaptionshort: ""
 
 ---
+Cell-Penetrating Peptides (CPPs) exhibit the ability to transport pharmacologically active compounds such as proteins, plasmid DNA, liposomes, and nanoparticles into cells, presenting a promising avenue for forthcoming therapeutic applications. Nevertheless, the precise pathways through which uptake occurs remain a topic of ongoing discussion. Our research endeavors center around multiple CPPs, with the goal of uncovering their distinct transport mechanisms and elucidating their interactions with diverse lipid molecules.
 
-Cell-Penetrating Peptides(CPPs) can deliver pharmacologically active molecules (e.g., proteins, plasmid-DNA, liposomes, and nanoparticles) into cells, and thus they have great potential as future therapeutics. However, the uptake mechanisms are still debated. We have been working on several CPPs to identify their transport mechanisms and interactions with various types of lipid molecules. 
