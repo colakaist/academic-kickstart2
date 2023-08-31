@@ -53,10 +53,10 @@ slides: ""
 
 ---
 
-Polyelectrolytes(PEs) are polymers carrying either positively or negatively charged ionizable groups, while polyampholytes(PAs) are charged polymers with both positively and negatively charged groups. The adsorption of PEs and PAs onto charged chains and surfaces has been extensively studied for a long time because of its importance in biology, materials science, soft matter research, etc. 
+Polyelectrolytes (PEs) refer to polymers containing ionizable groups that are either positively or negatively charged, whereas polyampholytes (PAs) are polymers with charged groups encompassing both positive and negative charges. The investigation of PEs and PAs adhering to charged chains and surfaces has been a subject of comprehensive research over an extended period due to its significance in fields such as biology, materials science, and soft matter exploration.
 
-The structure of PE-PA complexes depends on the charge distribution of the PA chain, and the stabilization of final products is mainly due to electrostatic attraction between the opposite charges. It has been known in experiments that the driving entropy forces originate from the rearrangement of water molecules around the polymer chains during the complexation. 
+The arrangement of PE-PA complexes is contingent upon the distribution of charges along the PA chain, and the stabilization of the resulting compounds primarily results from the electrostatic attraction between opposing charges. Empirical observations have established that the driving force behind entropy arises from the reorganization of water molecules surrounding the polymer chains during the process of complexation.
 
-Computer simulations (e.g., MD simulations) can quantify the effect of charge sequence on chain conformation and solution properties. We want to investigate the effects of salt concentrations and the charge distribution of PA chains on the formation of PE-PA complexes using MD simulations.
+Computer simulations, notably molecular dynamics (MD) simulations, offer a means to quantify the impact of charge sequence on chain configuration and properties of solutions. Our objective is to employ MD simulations in order to delve into the influence of salt concentrations and the charge distribution along PA chains on the development of PE-PA complexes.
 
 
