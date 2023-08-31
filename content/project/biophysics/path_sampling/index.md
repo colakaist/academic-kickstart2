@@ -50,4 +50,4 @@ slides: ""
 
 ---
 
-Path sampling approaches can enhance the efficiency of simulating rare events, e.g., protein folding, protein (un)binding, cellular signaling, etc. The Weighted Ensemble (WE) method is one of the most powerful and flexible path sampling techniques. We have been using WE simulations to reveal underlying mechanisms of various biological systems, such as membrane proteins, cell-penetrating peptides(CPPs).  
+Path sampling methodologies offer a means to augment the efficiency of simulating infrequent occurrences, such as protein folding, protein binding and unbinding, as well as cellular signaling processes. Among these approaches, the Weighted Ensemble (WE) method stands out as a particularly potent and versatile technique. In our research pursuits, we have harnessed WE simulations to delve into the fundamental mechanisms governing an array of biological systems. Notably, our investigations have encompassed subjects such as membrane proteins and cell-penetrating peptides (CPPs).
