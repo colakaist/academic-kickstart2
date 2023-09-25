@@ -22,7 +22,7 @@ categories: ["Biophysics"]
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Conference on Biological Physics(ICBP 2023) (08/14-08/18, Seoul)"
+publication: "International Conference on Biological Physics(ICBP2023) (08/14-08/18, Seoul)"
 publication_short: ""
 
 abstract: "Our findings demonstrate the occurrence of self-induced translocation of a specific cell-penetrating peptide (CPP) across a model membrane through the utilization of the weighted ensemble (WE) approach. Furthermore, our investigation highlights the significance of both the presence of a water pore and the angle of tilt of the peptide in facilitating translocation. Based on our results, we suggest that the WE method is highly efficient in detecting infrequent events in molecular dynamics simulations, and it has the potential to enhance our understanding of the transport mechanisms of various CPPs."
