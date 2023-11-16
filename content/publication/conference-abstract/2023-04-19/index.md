@@ -44,7 +44,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4539335'
+#url_source: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4539335'
 url_video: ''
 
 # Featured image
