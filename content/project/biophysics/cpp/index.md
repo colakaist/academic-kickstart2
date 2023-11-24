@@ -17,7 +17,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Interaction between Arg9s and a DOPC/DOPG membrane (preliminary)"
+#  caption: "Interaction between Arg9s and a DOPC/DOPG membrane (preliminary)"
   focal_point: "Center"
   preview_only: false
 
