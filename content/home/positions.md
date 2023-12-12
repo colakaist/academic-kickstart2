@@ -39,9 +39,9 @@ subtitle = ""
   # Customize the section spacing. Order is top, right, bottom, left.
   #padding = ["200px", "0", "200px", "0"]
 
-
+#Our group is seeking talented and motivated students (intern, Master, PhD). Please contact us if you are interested.
 +++
 
-Our group is seeking talented and motivated students (intern, Master, PhD). Please contact us if you are interested.
+Currently, we don't have an opening.
 
 
