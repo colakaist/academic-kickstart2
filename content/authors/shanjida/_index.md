@@ -51,7 +51,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:shanjida120@dgist.ac.kr
+#  link: mailto:shanjida120@dgist.ac.kr
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.kr/citations?user=aacf-VcAAAAJ&hl=en
