@@ -20,5 +20,3 @@ date: "2023-08-18T11:30:00Z"
 #  caption: ""
 # image: ICBP2.jpg
 ---
-
-
