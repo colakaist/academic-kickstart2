@@ -22,9 +22,9 @@ subtitle = ""
   offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-  #sort_by = "date"
-  #sort_ascending = "false"
+  #order = "desc"
+  sort_by = 'date'
+  sort_ascending = 'false'
 
   # Filter posts by a taxonomy term.
 [content.filters]
