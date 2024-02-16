@@ -55,7 +55,7 @@ HUGO_ENABLEGITINFO = "true"
 #  [headers.values]
 #    Content-Type = "application/rss+xml"
 
-[[redirects]]
-from = "/npmjs/*"
-to = "/npmjs/"
-status = 200
+#[[redirects]]
+#from = "/npmjs/*"
+#to = "/npmjs/"
+#status = 200
