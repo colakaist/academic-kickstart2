@@ -18,7 +18,7 @@ date: "2023-08-18T11:30:00Z"
 # Optional header image (relative to `static/img/` folder).   # or 'static/media' folder ?
 #header:
 #  caption: ""
-# image: ICBP2.jpg
+image: ICBP2.jpg
 ---
 
 
