@@ -12,7 +12,7 @@ date: "2024-02-16T14:00:00Z"
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view : 3
+#view : 3
 
 
 # Optional header image (relative to `static/img/` folder).   # or 'static/media' folder ?
