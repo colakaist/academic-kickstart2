@@ -1,5 +1,5 @@
 ---
-title: "Commencement Day" (February 2024)"
+title: "Commencement Day (February 2024)"
 #subtitle: "2022-06-17"
 date: "2024-02-16T14:00:00Z"
 #time: "13:00 PM"
