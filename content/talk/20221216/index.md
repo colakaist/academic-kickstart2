@@ -1,5 +1,5 @@
 ---
-title: "Last Day of Classes (Day of the Department's Happy Hour) (December 2022)"
+title: "Last Day of Classes (Day of the Department's Happy Hour) (Dec 2022)"
 #subtitle: "2022-06-17"
 date: "2022-12-16T12:00:00Z"
 #time: "13:00 PM"
