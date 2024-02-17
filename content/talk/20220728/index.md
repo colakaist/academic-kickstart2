@@ -1,5 +1,5 @@
 ---
-title: "Daam's Presentation (July 2022)"
+title: "Daam's Presentation (Jul 2022)"
 #subtitle: "2022-07-28"
 date: "2022-07-28T10:00:00Z"
 #time: "13:00 PM"
