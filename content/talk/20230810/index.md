@@ -1,5 +1,5 @@
 ---
-title: "Farewell Party for Katrina (August 2023)"
+title: "Farewell Party for Katrina (Aug 2023)"
 #subtitle: "2022-06-17"
 date: "2023-08-10T19:00:00Z"
 #time: "13:00 PM"
