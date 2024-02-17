@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Exchange student (June 2023 ~ August 2023)
+role: Exchange student (Jun 2023 ~ Aug 2023)
 
 
 # Organizations/Affiliations
