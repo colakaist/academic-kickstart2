@@ -1,5 +1,5 @@
 ---
-title: "Seungho's Talk @ ICBP2023 (August 2023)"
+title: "Seungho's Talk @ ICBP2023 (Aug 2023)"
 #subtitle: "2022-06-17"
 date: "2023-08-18T11:30:00Z"
 #time: "13:00 PM"
