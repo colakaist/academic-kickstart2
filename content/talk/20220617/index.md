@@ -1,5 +1,5 @@
 ---
-title: "Last Day of Classes (June 2022)"
+title: "Last Day of Classes (Jun 2022)"
 #subtitle: "2022-06-17"
 date: "2022-06-17T12:00:00Z"
 #time: "13:00 PM"
