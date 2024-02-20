@@ -55,8 +55,12 @@ slides: ""
 #projectimagecaptionshort: ""
 
 
+#Water-in-salt electrolytes (WISEs) have garnered significant interest recently owing to their expanded electrochemical stability window, surpassing that of conventional diluted aqueous electrolytes. This heightened #stability has positioned WISEs as components in batteries and supercapacitors. Nevertheless, the precise mechanism governing ion transport within WISEs remains elusive. Employing a combination of modeling and #simulations, our objective is to unravel the ion transport dynamics, a pivotal facet intrinsically linked to the rate capabilities of batteries. Furthermore, our research aims to address the limitations of WISEs, such as #their elevated viscosity and diminished conductivity.
+#
+#In addition to these endeavors, our research pursuits encompass the investigation of functional and mechanical properties across a spectrum of materials. Through the use of modeling and simulations, we delve into these #properties to gain a comprehensive understanding.
+
 ---
 
-Water-in-salt electrolytes (WISEs) have garnered significant interest recently owing to their expanded electrochemical stability window, surpassing that of conventional diluted aqueous electrolytes. This heightened stability has positioned WISEs as components in batteries and supercapacitors. Nevertheless, the precise mechanism governing ion transport within WISEs remains elusive. Employing a combination of modeling and simulations, our objective is to unravel the ion transport dynamics, a pivotal facet intrinsically linked to the rate capabilities of batteries. Furthermore, our research aims to address the limitations of WISEs, such as their elevated viscosity and diminished conductivity.
+We are studying the characteristics of electrolytes used in lithium-ion batteries and aiming to design better materials based on these characteristics. To achieve this, we use density functional theory calculations and molecular dynamics simulations to understand how lithium ions move within various electrolytes. Additionally, our research involves investigating the functional and mechanical properties of a variety of materials. We strive to gain a comprehensive understanding of these properties through modeling and simulations.
 
-In addition to these endeavors, our research pursuits encompass the investigation of functional and mechanical properties across a spectrum of materials. Through the use of modeling and simulations, we delve into these properties to gain a comprehensive understanding.
+
