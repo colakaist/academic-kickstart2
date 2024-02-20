@@ -61,6 +61,8 @@ slides: ""
 
 ---
 
-We are studying the characteristics of electrolytes used in lithium-ion batteries and aiming to design better materials based on these characteristics. To achieve this, we use density functional theory calculations and molecular dynamics simulations to understand how lithium ions move within various electrolytes. Additionally, our research involves investigating the functional and mechanical properties of a variety of materials. We strive to gain a comprehensive understanding of these properties through modeling and simulations.
+We are studying the characteristics of electrolytes used in lithium-ion batteries and aiming to design better materials based on these characteristics. To achieve this, we use density functional theory calculations and molecular dynamics simulations to understand how lithium ions move within various electrolytes. 
+
+Additionally, our research involves investigating the functional and mechanical properties of a variety of materials. We strive to gain a comprehensive understanding of these properties through modeling and simulations.
 
 
