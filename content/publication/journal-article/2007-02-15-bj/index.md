@@ -33,7 +33,7 @@ abstract: Using a coarse-grained elastic model, we examine the bending propertie
 #tags:
 #- Source Themes
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
