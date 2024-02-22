@@ -1,5 +1,5 @@
 ---
-title: "Bending Elasticity of Anti-Parallel β-Sheets"
+title: "Bending elasticity of anti-parallel β-sheets"
 authors: [S. Choe, S.X. Sun]
 #- schoe 
 
