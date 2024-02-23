@@ -33,7 +33,7 @@ abstract: Voltage-gated potassium (Kv) channels control the electrical excitabil
 #tags:
 #- Source Themes
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
