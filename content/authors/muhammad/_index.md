@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MS student (Apr 2022 ~ )
+role: MS student (Apr 2022 ~ Feb 2024)
 
 
 # Organizations/Affiliations
@@ -28,9 +28,13 @@ interests:
 
 education:
   courses:
+  - course: ME in Energy Sci. & Eng.
+    institution: DGIST
+    year: 2024
   - course: BS in Physics
     institution: University of Sargodha, Pakistan
     year: 2020
+    
 
 #experience:
 #  courses:
@@ -72,7 +76,8 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: ["Graduate Students"]
+#user_groups: ["Graduate Students"]
+user_groups: ["Alumni/Former Interns"]
 #- Principal Invesitigators
 ---
 
