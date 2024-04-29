@@ -13,7 +13,7 @@ pages: ""
 
 # Category
 # Legend:  Theoretical Physics; Biophysics
-categories: ["Theoretical Physics, Soft Matter Physics"]
+categories: ["Condensed Matter Physics"]
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
