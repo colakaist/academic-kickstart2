@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: ME in Energy Science & Engineering
+  - course: MS in Energy Science & Engineering
     institution: DGIST
     year: 2024
   - course: BS in Physics
