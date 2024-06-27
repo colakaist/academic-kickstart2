@@ -1,3 +1,4 @@
+---
 title: "Computational insights and phase transition of ruthenium alloy by classical molecular dynamics simulations"
 authors: [A. Mariam,S. Choe]
 #- schoe
