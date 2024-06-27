@@ -1,5 +1,5 @@
 title: "Computational insights and phase transition of ruthenium alloy by classical molecular dynamics simulations"
-authors: [A. Mariam, S. Choe]
+authors: [A. Mariam,S. Choe]
 #- schoe
 
 date: "2024-06-27"
