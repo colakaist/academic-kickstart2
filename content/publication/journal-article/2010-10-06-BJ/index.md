@@ -47,7 +47,7 @@ url_project: ''
 url_slides: ''
 url_source: 'https://www.sciencedirect.com/science/article/pii/S0006349510010519'
 url_video: ''
-url_cover:'BJ_cover_2010.jpg'
+url_cover: 'BJ_cover_2010.jpg'
 
 #
 #{{% staticref "files/BJ_cover_2010.jpg" %}}Journal Cover{{% /staticref %}}
