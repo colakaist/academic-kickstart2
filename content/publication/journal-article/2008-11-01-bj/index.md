@@ -35,7 +35,7 @@ abstract: This article reports an all-atom molecular dynamics simulation to stud
 #tags:
 #- Source Themes
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
