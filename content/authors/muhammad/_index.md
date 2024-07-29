@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: MS in Energy Science & Engineering
-    institution: DGIST
+    institution: DGIST (Thesis Title: Elucidation of the external electric field effect on the translocation of R-derivatives peptides across a symmetric lipid bilayer using the umbrella sampling method)
     year: 2024
   - course: BS in Physics
     institution: University of Sargodha, Pakistan
