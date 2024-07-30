@@ -137,7 +137,7 @@ weight = 100
   
 [[main]]
   name = "Cover Gallery"
-  url = "#gallery"
+  url = "#featured"
   weight = "41"
   parent = "selected_publications"
   hasChildren = true
