@@ -19,13 +19,13 @@ date: "2010-10-06"
 # - name: ""
 #   url: ""
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: ''
-url_dataset: ''
+#url_code: ''
+#url_dataset: ''
 #url_poster: 'BJ_cover_2010.jpg'
-url_project: ''
-url_slides: ''
+#url_project: ''
+#url_slides: ''
 url_source: 'https://www.sciencedirect.com/science/article/pii/S0006349510010519'
-url_video: ''
+#url_video: ''
 
 
 
