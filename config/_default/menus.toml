@@ -131,39 +131,39 @@ weight = 100
   name = "Publications"
   url = "#featured"
   weight = 400
-  hasChildren = true
-  identifier = "selected_publications"
+#  hasChildren = true
+#  identifier = "selected_publications"
 
   
 [[main]]
   name = "Cover Gallery"
-  url = "#featured"
-  weight = "41"
-  parent = "selected_publications"
-  hasChildren = true
-  identifier = "selected_publications_gallery"
+  url = "#gallery"
+  weight = "500"
+#  parent = "selected_publications"
+#  hasChildren = true
+#  identifier = "selected_publications_gallery"
 
   
 [[main]]
   name = "News"
   url = "#posts"
 #  url = "#post2"
-  weight = 500
+  weight = 600
 
 [[main]]
   name = "Photos"
   url = "#talks"
-  weight = 600
+  weight = 700
 
 [[main]]
   name = "Open Positions"
   url = "#positions"
-  weight = 700
+  weight = 800
   
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 800
+  weight = 900
 
 
 
