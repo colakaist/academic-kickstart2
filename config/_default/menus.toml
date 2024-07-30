@@ -25,21 +25,21 @@ weight = 100
   identifier = "current_projects"
  
 [[main]]
-  name = "Biophysics"
+  name = "Biophysics & Soft Matter Physics"
   url = "#projects"
   weight = "10"
   parent = "current_projects"
   hasChildren = true
-  identifier = "current_projects_biophysics"
+  identifier = "current_projects_biosoftmatter"
 
 
 [[main]]
-  name = "Soft Matter Physics"
+  name = "Condensed Matter Physics"
   url = "#projects"
   weight = "20"
   parent = "current_projects"
   hasChildren = true
-  identifier = "current_projects_softmatter"
+  identifier = "current_projects_condensedmatter"
 
   
 [[main]]
@@ -56,7 +56,7 @@ weight = 100
 #  url = "#projects_biophysics"
   url = "#projects"
   weight = "1"
-  parent = "current_projects_biophysics"
+  parent = "current_projects_biosoftmatter"
 #  hasChildren = false
 
 [[main]]
@@ -65,7 +65,7 @@ weight = 100
 #  url = "#projects_biophysics"
   url = "#projects"  
   weight = "2"
-  parent = "current_projects_biophysics"
+  parent = "current_projects_biosoftmatter"
   
 [[main]]
   name = "Cell-Penetrating Peptides(CPPs) and Drug Delivery"
@@ -73,7 +73,7 @@ weight = 100
 #  url = "#projects_biophysics"
   url = "#projects"
   weight = "3"
-  parent = "current_projects_biophysics" 
+  parent = "current_projects_biosoftmatter" 
   
 [[main]]
   name = "Path Sampling of Rare Events"
@@ -81,7 +81,7 @@ weight = 100
 #  url = "#projects_biophysics"
   url = "#projects"
   weight = "4"
-  parent = "current_projects_biophysics" 
+  parent = "current_projects_biosoftmatter" 
 
 [[main]]
   name = "Theoretical Modeling of a Cell Division and the Min System"
@@ -89,7 +89,7 @@ weight = 100
 #  url = "#projects_biophysics"
   url = "#projects"
   weight = "5"
-  parent = "current_projects_biophysics"
+  parent = "current_projects_biosoftmatter"
 
 
 [[main]]
@@ -98,7 +98,7 @@ weight = 100
 #  url = "#projects_biophysics"
   url = "#projects"
   weight = "6"
-  parent = "current_projects_biophysics"
+  parent = "current_projects_biosoftmatter"
   
 
 [[main]]
@@ -107,7 +107,7 @@ weight = 100
 #  url = "#projects_softmatter"
   url = "#projects"
   weight = "7"
-  parent = "current_projects_softmatter"
+  parent = "current_projects_biosoftmatter"
 
 
 [[main]]
@@ -116,7 +116,7 @@ weight = 100
 #  url = "#projects_softmatter"
   url = "#projects"
   weight = "8"
-  parent = "current_projects_softmatter"
+  parent = "current_projects_biosoftmatter"
 
 [[main]]
   name = "Ion Transport in Water-in-salt Electrolytes(WISEs)"
@@ -124,7 +124,7 @@ weight = 100
 #  url = "#projects_softmatter"
   url = "#projects"
   weight = "9"
-  parent = "current_projects_softmatter"
+  parent = "current_projects_biooftmatter"
   
   
 [[main]]
