@@ -1,8 +1,8 @@
 ---
 title: "Last Day of Classes (Day of the Department's Happy Hour) (Dec 2022)"
 #subtitle: "2022-06-17"
-#date: "2022-12-16T12:00:00Z"
-date: "2022-12-16"
+date: "2022-12-16T12:00:00Z"
+#date: "2022-12-16"
 #time: "13:00 PM"
 #show_date: false
 #show_time: false
