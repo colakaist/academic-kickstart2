@@ -1,7 +1,8 @@
 ---
 title: "Last Day of Classes (Jun 2022)"
 #subtitle: "2022-06-17"
-date: "2022-06-17T12:00:00Z"
+#date: "2022-06-17T12:00:00Z"
+date: "2022-06-17"
 #time: "13:00 PM"
 #show_date: false
 #show_time: false
