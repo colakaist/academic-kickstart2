@@ -2,6 +2,7 @@
 title: "Biophys J. (2010)"
 #subtitle: "2022-06-17"
 #date: "2010-10-06T14:00:00Z"
+date: "2010-10-06"
 #time: "13:00 PM"
 #show_date: false
 #show_time: false
