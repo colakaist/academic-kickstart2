@@ -1,7 +1,8 @@
 ---
 title: "Seungho's Talk @ ICBP2023 (Aug 2023)"
 #subtitle: "2022-06-17"
-date: "2023-08-18T11:30:00Z"
+#date: "2023-08-18T11:30:00Z"
+date: "2023-08-18"
 #time: "13:00 PM"
 #show_date: false
 #show_time: false
