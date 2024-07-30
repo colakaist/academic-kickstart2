@@ -131,6 +131,18 @@ weight = 100
   name = "Publications"
   url = "#featured"
   weight = 400
+  hasChildren = true
+  identifier = "selected_publications"
+
+  
+[[main]]
+  name = "Cover Gallery"
+  url = "#gallery"
+  weight = "41"
+  parent = "selected_publications"
+  hasChildren = true
+  identifier = "selected_publications_gallery"
+
   
 [[main]]
   name = "News"
