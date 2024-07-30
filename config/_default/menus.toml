@@ -136,7 +136,7 @@ weight = 100
 
   
 [[main]]
-  name = "Cover Gallery"
+  name = "Gallery"
   url = "#gallery"
   weight = "500"
 #  parent = "selected_publications"
