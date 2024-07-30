@@ -50,81 +50,81 @@ weight = 100
   hasChildren = true
   identifier = "current_projects_theoreticalphysics"  
   
-[[main]]
-  name = "Membrane Proteins Structure and Function"
-#  url = "project/biophysics/membrane_protein/"
-#  url = "#projects_biophysics"
-  url = "#projects"
-  weight = "1"
-  parent = "current_projects_biosoftmatter"
-#  hasChildren = false
+#[[main]]
+#  name = "Membrane Proteins Structure and Function"
+##  url = "project/biophysics/membrane_protein/"
+##  url = "#projects_biophysics"
+#  url = "#projects"
+#  weight = "1"
+#  parent = "current_projects_biosoftmatter"
+##  hasChildren = false
 
-[[main]]
-  name = "Functional and Mechanical Properties of Biological Soft Matter"
-#  url = "project/biophysics/bio_soft_matter/"
-#  url = "#projects_biophysics"
-  url = "#projects"  
-  weight = "2"
-  parent = "current_projects_biosoftmatter"
+#[[main]]
+#  name = "Functional and Mechanical Properties of Biological Soft Matter"
+##  url = "project/biophysics/bio_soft_matter/"
+##  url = "#projects_biophysics"
+#  url = "#projects"  
+#  weight = "2"
+#  parent = "current_projects_biosoftmatter"
   
-[[main]]
-  name = "Cell-Penetrating Peptides(CPPs) and Drug Delivery"
-#  url = "project/biophysics/cpp/"
-#  url = "#projects_biophysics"
-  url = "#projects"
-  weight = "3"
-  parent = "current_projects_biosoftmatter" 
+#[[main]]
+#  name = "Cell-Penetrating Peptides(CPPs) and Drug Delivery"
+##  url = "project/biophysics/cpp/"
+##  url = "#projects_biophysics"
+#  url = "#projects"
+#  weight = "3"
+#  parent = "current_projects_biosoftmatter" 
   
-[[main]]
-  name = "Path Sampling of Rare Events"
-#  url = "project/biophysics/path_sampling/"
-#  url = "#projects_biophysics"
-  url = "#projects"
-  weight = "4"
-  parent = "current_projects_biosoftmatter" 
+#[[main]]
+#  name = "Path Sampling of Rare Events"
+##  url = "project/biophysics/path_sampling/"
+##  url = "#projects_biophysics"
+#  url = "#projects"
+#  weight = "4"
+#  parent = "current_projects_biosoftmatter" 
 
-[[main]]
-  name = "Theoretical Modeling of a Cell Division and the Min System"
-#  url = "project/biophysics/cell_division/"
-#  url = "#projects_biophysics"
-  url = "#projects"
-  weight = "5"
-  parent = "current_projects_biosoftmatter"
+#[[main]]
+#  name = "Theoretical Modeling of a Cell Division and the Min System"
+##  url = "project/biophysics/cell_division/"
+##  url = "#projects_biophysics"
+#  url = "#projects"
+#  weight = "5"
+#  parent = "current_projects_biosoftmatter"
 
 
-[[main]]
-  name = "Light-harvesting: Mechanisms of Energy Transfer"
-#  url = "project/biophysics/cell_division/"
-#  url = "#projects_biophysics"
-  url = "#projects"
-  weight = "6"
-  parent = "current_projects_biosoftmatter"
+#[[main]]
+#  name = "Light-harvesting: Mechanisms of Energy Transfer"
+##  url = "project/biophysics/cell_division/"
+##  url = "#projects_biophysics"
+#  url = "#projects"
+#  weight = "6"
+#  parent = "current_projects_biosoftmatter"
   
 
-[[main]]
-  name = "Self-Assembly of Polymers"
-##  url = "project/soft_matter_physics/self_assembly/"
-#  url = "#projects_softmatter"
-  url = "#projects"
-  weight = "7"
-  parent = "current_projects_biosoftmatter"
+#[[main]]
+#  name = "Self-Assembly of Polymers"
+###  url = "project/soft_matter_physics/self_assembly/"
+##  url = "#projects_softmatter"
+#  url = "#projects"
+#  weight = "7"
+#  parent = "current_projects_biosoftmatter"
 
 
-[[main]]
-  name = "Polyelectrolyte-Polyampholyte Complexes"
-##  url = "project/soft_matter_physics/pe_pa/"
-#  url = "#projects_softmatter"
-  url = "#projects"
-  weight = "8"
-  parent = "current_projects_biosoftmatter"
+#[[main]]
+#  name = "Polyelectrolyte-Polyampholyte Complexes"
+###  url = "project/soft_matter_physics/pe_pa/"
+##  url = "#projects_softmatter"
+#  url = "#projects"
+#  weight = "8"
+#  parent = "current_projects_biosoftmatter"
 
-[[main]]
-  name = "Ion Transport in Water-in-salt Electrolytes(WISEs)"
-##  url = "project/soft_matter_physics/WISE/"
-#  url = "#projects_softmatter"
-  url = "#projects"
-  weight = "9"
-  parent = "current_projects_condensedmatter"
+#[[main]]
+#  name = "Ion Transport in Water-in-salt Electrolytes(WISEs)"
+###  url = "project/soft_matter_physics/WISE/"
+##  url = "#projects_softmatter"
+#  url = "#projects"
+#  weight = "9"
+#  parent = "current_projects_condensedmatter"
   
   
 [[main]]
