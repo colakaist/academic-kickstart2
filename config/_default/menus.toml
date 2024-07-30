@@ -124,7 +124,7 @@ weight = 100
 #  url = "#projects_softmatter"
   url = "#projects"
   weight = "9"
-  parent = "current_projects_biooftmatter"
+  parent = "current_projects_condensedmatter"
   
   
 [[main]]
