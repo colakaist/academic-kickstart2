@@ -43,14 +43,15 @@ education:
     institution: Yonsei University
     year: 1989
 
-#(2021 - present) Associate Professor, Dept. of Energy Science & Engineering, DGIST \
-#(2012 - 2020) Assistant/Associate Professor, School of Undergraduate Studies, DGIST \
-#(2007 - 2012) Postdoc/Research Associate, Dept. of Biological Sciences, University of Pittsburgh, USA \
-#(2006 - 2007) Postdoc, Dept. of Mechanical Engineering, University of Michigan, USA \
-#(2004 - 2006) Postdoc, Dept. of Mechanical Engineering, Johns Hopkins University, USA \
-#(2002 - 2004) Postdoc, Dept. of Chemistry, KAIST \
-#(1999 - 2001) Postdoc, Dept. of Physics, Hiroshima University, Japan \
-#(1997 - 1998) Postdoc, Centre for the Subatomic Structure of Matter(CSSM), Adelaide University, Australia 
+Background:
+- (2021 - present) Associate Prof., Dept. of Energy Science & Engineering, DGIST 
+- (2012 - 2020) Assistant/Associate Prof., School of Undergraduate Studies, DGIST 
+- (2007 - 2012) Postdoc/Research Associate, Dept. of Biological Sciences, Univ. of Pittsburgh, USA
+- (2006 - 2007) Postdoc, Dept. of Mechanical Engineering, Univ. of Michigan, USA 
+- (2004 - 2006) Postdoc, Dept. of Mechanical Engineering, Johns Hopkins Univ., USA 
+- (2002 - 2004) Postdoc, Dept. of Chemistry, KAIST 
+- (1999 - 2001) Postdoc, Dept. of Physics, Hiroshima Univ., Japan 
+- (1997 - 1998) Postdoc, Centre for the Subatomic Structure of Matter(CSSM), Adelaide Univ., Australia 
 
             
 
@@ -84,6 +85,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: ["Principal Investigator"]
 #- Principal Invesitigators
+
+
 ---
 
 
