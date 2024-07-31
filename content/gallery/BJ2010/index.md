@@ -1,5 +1,5 @@
 ---
-title: "Cover Article: Biophys J. 99, L56 (2010)"
+title: "Cover Article: Biophys. J. 99, L56 (2010)"
 #subtitle: "2022-06-17"
 #date: "2010-10-06T14:00:00Z"
 date: "2010-10-06"
