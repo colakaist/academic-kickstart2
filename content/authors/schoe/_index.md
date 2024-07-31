@@ -43,33 +43,15 @@ education:
     institution: Yonsei University
     year: 1989
 
+#(2021 - present) Associate Professor, Dept. of Energy Science & Engineering, DGIST \
+#(2012 - 2020) Assistant/Associate Professor, School of Undergraduate Studies, DGIST \
+#(2007 - 2012) Postdoc/Research Associate, Dept. of Biological Sciences, University of Pittsburgh, USA \
+#(2006 - 2007) Postdoc, Dept. of Mechanical Engineering, University of Michigan, USA \
+#(2004 - 2006) Postdoc, Dept. of Mechanical Engineering, Johns Hopkins University, USA \
+#(2002 - 2004) Postdoc, Dept. of Chemistry, KAIST \
+#(1999 - 2001) Postdoc, Dept. of Physics, Hiroshima University, Japan \
+#(1997 - 1998) Postdoc, Centre for the Subatomic Structure of Matter(CSSM), Adelaide University, Australia 
 
-experience:
-  courses:
-  - course: Associate Professor, Dept. of Energy Science & Engineering 
-    institution: DGIST
-    year: 2021 - present
-  - course: Assistant/Associate Professor, School of Undergraduate Studies 
-    institution: DGIST
-    year: 2012 - 2020
-  - course: Postdoc/Research Associate, Dept. of Biological Sciences
-    institution: University of Pittsburgh, USA
-    year: 2007 - 2012
-  - course: Postdoc, Dept. of Mechanical Engineering
-    institution: University of Michigan, USA
-    year: 2006 - 2007
-  - course: Postdoc, Dept. of Mechanical Engineering
-    institution: Johns Hopkins University, USA
-    year: 2004 - 2006
-  - course: Postdoc, Dept. of Chemistry
-    institution: KAIST
-    year: 2002 - 2004
-  - course: Postdoc, Dept. of Physics
-    institution: Hiroshima University, Japan
-    year: 1999 - 2001  
-  - course: Postdoc, Centre for the Subatomic Structure of Matter(CSSM)
-    institution: Adelaide University, Australia
-    year: 1997 - 1998  
             
 
 # Social/Academic Networking
@@ -104,12 +86,5 @@ user_groups: ["Principal Investigator"]
 #- Principal Invesitigators
 ---
 
-#(2021 - present) Associate Professor, Dept. of Energy Science & Engineering, DGIST \
-#(2012 - 2020) Assistant/Associate Professor, School of Undergraduate Studies, DGIST \
-#(2007 - 2012) Postdoc/Research Associate, Dept. of Biological Sciences, University of Pittsburgh, USA \
-#(2006 - 2007) Postdoc, Dept. of Mechanical Engineering, University of Michigan, USA \
-#(2004 - 2006) Postdoc, Dept. of Mechanical Engineering, Johns Hopkins University, USA \
-#(2002 - 2004) Postdoc, Dept. of Chemistry, KAIST \
-#(1999 - 2001) Postdoc, Dept. of Physics, Hiroshima University, Japan \
-#(1997 - 1998) Postdoc, Centre for the Subatomic Structure of Matter(CSSM), Adelaide University, Australia 
+
            
