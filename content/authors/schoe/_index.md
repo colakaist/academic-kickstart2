@@ -38,14 +38,34 @@ education:
     institution: Yonsei University
     year: 1989
 
-#experience:
-#  courses:
-#  - course: Assistant & Associate Professor 
-#    institution: DGIST
-#    year: 2012 - present
-#  - course: Postdoc (Dept. of Biological Sciences)
-#    institution: University of Pittsburgh
-#    year: 2007 - 2012
+experience:
+  courses:
+  - course: Associate Professor, Dept. of Energy Science & Engineering 
+    institution: DGIST
+    year: 2021 - present
+  - course: Assistant/Associate Professor, School of Undergraduate Studies 
+    institution: DGIST
+    year: 2012 - 2020
+  - course: Postdoc/Research Associate, Dept. of Biological Sciences
+    institution: University of Pittsburgh, USA
+    year: 2007 - 2012
+  - course: Postdoc, Dept. of Mechanical Engineering
+    institution: University of Michigan, USA
+    year: 2006 - 2007
+  - course: Postdoc, Dept. of Mechanical Engineering
+    institution: Johns Hopkins University, USA
+    year: 2004 - 2006
+  - course: Postdoc, Dept. of Chemistry
+    institution: KAIST
+    year: 2002 - 2004
+  - course: Postdoc, Dept. of Physics
+    institution: Hiroshima University, Japan
+    year: 1999 - 2001  
+  - course: Postdoc, Centre for the Subatomic Structure of Matter(CSSM)
+    institution: Adelaide University, Australia
+    year: 1997 - 1998  
+            
+      
 
 
 
