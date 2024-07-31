@@ -21,6 +21,10 @@ role: Associate Professor, Dept. of Energy Science & Engineering
 #bio: ""
 #My research interests include 
 
+2021 ~ present: Associate Professor, Dept. of Energy Science & Engineering, DGIST
+
+
+
 interests:
 - Theoretical Physics
 - Computational Physics
@@ -104,6 +108,4 @@ user_groups: ["Principal Investigator"]
 #- Principal Invesitigators
 ---
 
-\
-\
-2021 ~ present: Associate Professor, Dept. of Energy Science & Engineering, DGIST
+
