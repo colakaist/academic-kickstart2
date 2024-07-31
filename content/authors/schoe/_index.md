@@ -111,5 +111,5 @@ user_groups: ["Principal Investigator"]
 (2004 - 2006) Postdoc, Dept. of Mechanical Engineering, Johns Hopkins University, USA \
 (2002 - 2004) Postdoc, Dept. of Chemistry, KAIST \
 (1999 - 2001) Postdoc, Dept. of Physics, Hiroshima University, Japan \
-(1997 - 1998) Postdoc, Centre for the Subatomic Structure of Matter(CSSM), Adelaide University, Australia \
+(1997 - 1998) Postdoc, Centre for the Subatomic Structure of Matter(CSSM), Adelaide University, Australia 
            
