@@ -2,7 +2,7 @@
 title: "JGP 131, 563 (2008)"
 #subtitle: "2022-06-17"
 #date: "2010-10-06T14:00:00Z"
-date: "2008-5-12"
+date: "2008-05-12"
 #time: "13:00 PM"
 #show_date: false
 #show_time: false
