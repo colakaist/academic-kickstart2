@@ -38,6 +38,12 @@ education:
     institution: Yonsei University
     year: 1989
 
+
+experience:
+  - (2021 ~ present) Associate Professor, Dept. of Energy Science & Engineering, DGIST
+
+
+
 experience:
   courses:
   - course: Associate Professor, Dept. of Energy Science & Engineering 
@@ -65,10 +71,6 @@ experience:
     institution: Adelaide University, Australia
     year: 1997 - 1998  
             
-      
-
-
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
