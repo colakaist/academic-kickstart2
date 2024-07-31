@@ -25,7 +25,7 @@ date: "2008-05-12"
 #url_project: ''
 #url_slides: ''
 url_source: 'https://rupress.org/jgp/article/131/6/563/43913/A-Continuum-Method-for-Determining-Membrane'
-url_source: 'https://connect.h1.co/article/1108693'
+#url_source: 'https://connect.h1.co/article/1108693'
 #url_video: ''
 
 
