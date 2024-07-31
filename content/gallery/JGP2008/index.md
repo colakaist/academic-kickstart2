@@ -1,5 +1,5 @@
 ---
-title: "Faculty Opinions: J. Gen. Physiol. 131, 563 (2008)"
+title: "Faculty Opinions: J. Gen. Physiol. 131, 563 (2008) (before joining DGIST)"
 #subtitle: "2022-06-17"
 #date: "2010-10-06T14:00:00Z"
 date: "2008-05-12"
