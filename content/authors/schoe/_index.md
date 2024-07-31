@@ -21,7 +21,8 @@ role: Associate Professor, Dept. of Energy Science & Engineering
 #bio: ""
 #My research interests include 
 
-2021 ~ present: Associate Professor, Dept. of Energy Science & Engineering, DGIST
+bio: 2021 - present: Associate Professor, Dept. of Energy Science & Engineering, DGIST \
+     2012 - 2020   : Assistant/Associate Professor, School of Undergraduate Studies, DGIST 
 
 
 
