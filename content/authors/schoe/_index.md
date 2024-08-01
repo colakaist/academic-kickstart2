@@ -43,18 +43,6 @@ education:
     institution: Yonsei University
     year: 1989
 
-#Background:
-#- (2021 ~ present) Associate Prof., Dept. of Energy Science & Engineering, DGIST 
-#- (2012 ~ 2020) Assistant/Associate Prof., School of Undergraduate Studies, DGIST 
-#- (2007 ~ 2012) Postdoc/Research Associate, Dept. of Biological Sciences, Univ. of Pittsburgh, USA
-#- (2006 ~ 2007) Postdoc, Dept. of Mechanical Engineering, Univ. of Michigan, USA 
-#- (2004 ~ 2006) Postdoc, Dept. of Mechanical Engineering, Johns Hopkins Univ., USA 
-#- (2002 ~ 2004) Postdoc, Dept. of Chemistry, KAIST 
-#- (1999 ~ 2001) Postdoc, Dept. of Physics, Hiroshima Univ., Japan 
-#- (1997 ~ 1998) Postdoc, Centre for the Subatomic Structure of Matter(CSSM), Adelaide Univ., Australia 
-
-            
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
