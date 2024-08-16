@@ -1,7 +1,7 @@
 ---
 title: "Graduation Day (Aug 2024)"
 #subtitle: "2022-06-17"
-date: "2024-08-16T14:00:00Z"
+date: "2024-08-16 14:00 PM"
 #date: "2024-08-16"
 #time: "13:00 PM"
 #show_date: false
