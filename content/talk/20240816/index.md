@@ -1,6 +1,6 @@
 ---
-title:"Graduation Day (Aug 2024)"
-date:"2024-08-16T14:00:00Z"
+title: "Graduation Day (Aug 2024)"
+date: "2024-08-16T14:00:00Z"
 
 
 # View.
