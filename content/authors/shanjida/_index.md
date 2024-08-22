@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MS student (Sep 2022 ~ )
+role: MS student (Sep 2022 ~ Aug 2024)
 
 
 # Organizations/Affiliations
@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+  - course: MS in Energy Science & Engineering
+    institution: DGIST
+    year: 2024
   - course: BS in Nuclear Science & Engineering
     institution: Military Institute of Science & Technology(MIST), Bangladesh
     year: 2019
@@ -72,7 +75,8 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: ["Graduate Students"]
+#user_groups: ["Graduate Students"]
+user_groups: ["Alumni/Former Interns"]
 #- Principal Invesitigators
 ---
 
