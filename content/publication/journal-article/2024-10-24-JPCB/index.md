@@ -4,7 +4,7 @@ authors: [S. Choe]
 #- schoe
 
 date: "2024-10-24"
-doi: "https://doi.org/10.1021/acs.jpcb.4c04266"
+#doi: "https://doi.org/10.1021/acs.jpcb.4c04266"
 volume: ""
 pages: ""
 
