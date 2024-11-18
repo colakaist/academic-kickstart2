@@ -1,6 +1,6 @@
 ---
 title: "Nucleation-Controlled Doping of II–VI Semiconductor Nanocrystals Mediated by Magic-Sized Clusters"
-authors: [S. Ji, H. G. Abbas, S. Y. Kim, H. C. Lee, K. Lee, S. Li, S. Choe, H. Ahn, S. Ringe, J. Yang]
+authors: [S. Ji, H.G. Abbas, S.Y. Kim, H.C. Lee, K. Lee, S. Li, S. Choe, H. Ahn, S. Ringe, J. Yang]
 #- schoe
 
 date: "2024-11-15"
