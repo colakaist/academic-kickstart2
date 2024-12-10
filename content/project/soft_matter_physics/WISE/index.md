@@ -60,9 +60,7 @@ slides: ""
 #In addition to these endeavors, our research pursuits encompass the investigation of functional and mechanical properties across a spectrum of materials. Through the use of modeling and simulations, we delve into these #properties to gain a comprehensive understanding.
 
 ---
+We are studying the characteristics of electrolytes used in lithium-ion batteries with the goal of designing improved materials based on these properties. To achieve this, we employ density functional theory calculations and molecular dynamics simulations to explore how lithium ions move within different electrolytes.
 
-We are studying the characteristics of electrolytes used in lithium-ion batteries and aiming to design better materials based on these characteristics. To achieve this, we use density functional theory calculations and molecular dynamics simulations to understand how lithium ions move within various electrolytes. 
-
-Additionally, our research involves investigating the functional and mechanical properties of various materials. We strive to gain a comprehensive understanding of these properties through modeling and simulations.
-
+In addition, our research includes investigating the functional and mechanical properties of various materials. Through modeling and simulations, we aim to gain a comprehensive understanding of these properties.
 
