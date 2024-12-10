@@ -52,7 +52,7 @@ slides: ""
 
 
 ---
+Membrane proteins, including enzymes, receptors, ion channels, and transporters, are essential to the functioning of all organisms and play a pivotal role in cellular processes. These proteins are the primary targets for pharmaceutical interventions. Our main objective is to understand the diverse functional properties of various membrane proteins and, in doing so, identify potential pharmaceutical agents that can modulate their biological activities.
 
-Integral to the functioning of all organisms, membrane proteins (including enzymes, receptors, ion channels, and transporters) hold pivotal significance. These proteins constitute the primary targets for pharmaceutical interventions. Our overarching objective revolves around comprehending the diverse functional attributes exhibited by various membrane proteins, and in doing so, pinpointing viable pharmaceutical agents capable of modulating their biological activities.
 
 
