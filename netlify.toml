@@ -1,8 +1,8 @@
 [build]
   publish = "public"
 #    publish = "build"
-  command = "hugo --gc --minify"
-#  command = "hugo"
+#  command = "hugo --gc --minify"
+  command = "hugo"
 
 
   [build.environment]
