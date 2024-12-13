@@ -28,6 +28,8 @@ interests:
 
 education:
   courses:
+  - course: PhD Candidate in Quantum Information
+    institution: KRISS, University of Science and Technology 
   - course: MS in Energy Science & Engineering
     institution: DGIST
     year: 2024
