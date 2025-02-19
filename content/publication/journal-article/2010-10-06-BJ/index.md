@@ -34,7 +34,7 @@ abstract: "It is well accepted that cotransporters facilitate water movement by 
 #tags:
 #- Source Themes
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
