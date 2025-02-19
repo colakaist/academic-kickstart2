@@ -33,7 +33,7 @@ abstract: Continuum electrostatic approaches have been extremely successful at d
 #tags:
 #- Source Themes
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
