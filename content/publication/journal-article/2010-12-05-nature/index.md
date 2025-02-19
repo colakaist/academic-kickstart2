@@ -33,7 +33,7 @@ abstract: Membrane co-transport proteins that use a five-helix inverted repeat m
 #tags:
 #- Source Themes
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
