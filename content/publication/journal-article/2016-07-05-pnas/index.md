@@ -35,7 +35,7 @@ abstract: Secondary active transporters, such as those that adopt the leucine-tr
 #tags:
 #- Source Themes
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
