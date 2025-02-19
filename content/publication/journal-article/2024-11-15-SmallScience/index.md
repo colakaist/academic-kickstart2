@@ -33,7 +33,7 @@ abstract: "Doping quantum-confined semiconductor nanocrystals offers an effectiv
 #tags:
 #- Source Themes
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
