@@ -33,7 +33,7 @@ abstract: "Cell-penetrating peptides (CPPs) have been widely used for drug-deliv
 #tags:
 #- Source Themes
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
