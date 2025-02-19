@@ -34,7 +34,7 @@ summary: []
 #tags:
 #- highlight
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
