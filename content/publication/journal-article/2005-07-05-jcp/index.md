@@ -33,7 +33,7 @@ abstract: "The elasticity of α-helices is examined using equilibrium molecular-
 #tags:
 #- Source Themes
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
