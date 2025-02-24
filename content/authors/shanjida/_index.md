@@ -28,6 +28,8 @@ interests:
 
 education:
   courses:
+  - course: PhD Student in Chemistry
+    institution: NC State Univ., USA
   - course: MS in Energy Science & Engineering
     institution: DGIST
     year: 2024
