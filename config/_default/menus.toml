@@ -131,17 +131,19 @@ weight = 100
   name = "Publications"
   url = "#featured"
   weight = 400
-#  hasChildren = true
-#  identifier = "selected_publications"
+  hasChildren = true
+  identifier = "recent_publications"
 
   
 [[main]]
   name = "Gallery"
-  url = "#gallery"
-  weight = "500"
-#  parent = "selected_publications"
+#  url = "#gallery"
+   url = "#featured"
+  weight = "450"
+  parent = "selected_publications"
 #  hasChildren = true
-#  identifier = "selected_publications_gallery"
+  identifier = "selected_publications_gallery"
+
 
   
 [[main]]
