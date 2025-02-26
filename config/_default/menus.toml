@@ -134,15 +134,23 @@ weight = 100
   hasChildren = true
   identifier = "recent_publications"
 
+
+[[main]]
+  name = "Recent Publications"
+  url = "#featured"
+  weight = "50"
+  parent = "recent_publications"
+#  hasChildren = true
+#  identifier = "recent_publications_gallery"
+
   
 [[main]]
   name = "Gallery"
   url = "#gallery"
-#  url = "#featured"
-  weight = "50"
+  weight = "60"
   parent = "recent_publications"
-  hasChildren = true
-  identifier = "recent_publications_gallery"
+#  hasChildren = true
+#  identifier = "recent_publications_gallery"
 
 
   
