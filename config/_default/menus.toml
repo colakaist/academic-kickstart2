@@ -137,8 +137,8 @@ weight = 100
   
 [[main]]
   name = "Gallery"
-#  url = "#gallery"
-   url = "#featured"
+  url = "#gallery"
+#  url = "#featured"
   weight = "50"
   parent = "recent_publications"
   hasChildren = true
