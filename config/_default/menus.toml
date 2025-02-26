@@ -136,7 +136,7 @@ weight = 100
 
 
 [[main]]
-  name = "Last five year's"
+  name = "Journal Publications"
   url = "#featured"
   weight = "50"
   parent = "recent_publications"
