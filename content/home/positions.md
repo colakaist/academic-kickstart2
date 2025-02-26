@@ -42,6 +42,6 @@ subtitle = ""
 #Our group is seeking talented and motivated students (intern, Master, PhD). Please contact us if you are interested.
 +++
 
-Currently, we don't have an opening.
-
+#Currently, we don't have an opening.
+Our group is seeking talented and motivated students (intern, Master, PhD). Please contact us if you are interested.
 
