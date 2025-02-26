@@ -139,9 +139,9 @@ weight = 100
   name = "Gallery"
 #  url = "#gallery"
    url = "#featured"
-  weight = "450"
+  weight = "50"
   parent = "selected_publications"
-#  hasChildren = true
+  hasChildren = true
   identifier = "selected_publications_gallery"
 
 
