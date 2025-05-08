@@ -27,8 +27,6 @@ publication_short: ""
 
 abstract: "Dilution methods employing weaker-solvating solvents as diluents have shown promise in reducing the viscosity of liquid electrolytes without disrupting the coordination between Li⁺ and anions. However, diluents alter the FSI− coordination conformation in locally concentrated ionic liquid electrolytes (LCILEs2) by occupying the interstitial space between the Li+−FSI− complex and Pyr13+. The Li+−FSI− bond exhibits various energy states depending on the anion coordination conformation. By regulating the dilution extent, the HOMO level can be reduced, enabling higher voltage tolerance with fewer side reactions. Given that reinforcing the Li+−FSI− binding can contribute to reducing the HOMO level, TTE in-between Pyr13+ and FSI− possibly changes the anion conformation from bidentate to ambidentate coordination. Furthermore, moderate dilution promoting bidentate coordination facilitates the formation of a LiF-rich solid-electrolyte interphase (SEI3). Herein, we present an optimally diluted CILE (LCILE-T1) that demonstrates superior cycle stability in a pouch-type full cell operating at 4.7 V, achieving over 240 cycles."
 
-"
-
 # Summary. An optional shortened abstract.
 #summary: []
 
