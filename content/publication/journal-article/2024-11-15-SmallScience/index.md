@@ -1,5 +1,5 @@
 ---
-title: "Nucleation-Controlled Doping of II–VI Semiconductor Nanocrystals Mediated by Magic-Sized Clusters"
+title: "Nucleation-controlled doping of II–VI semiconductor nanocrystals mediated by magic-sized clusters"
 authors: [S. Ji, H.G. Abbas, S.Y. Kim, H.C. Lee, K. Lee, S. Li, S. Choe, H. Ahn, S. Ringe, J. Yang]
 #- schoe
 
