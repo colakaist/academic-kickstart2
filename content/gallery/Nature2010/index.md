@@ -27,3 +27,8 @@ date: "2010-12-05"
 url_source: 'https://www.nature.com/articles/nature09580'
 #url_video: ''
 
+# Optional header image (relative to `static/img/` folder).   # or 'static/media' folder ?
+#header:
+#  caption: ""
+# image: ICBP2.jpg
+---
