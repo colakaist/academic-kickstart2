@@ -32,4 +32,4 @@ url_source: 'https://www.nature.com/articles/nature09580'
 #  caption: ""
 # image: ICBP2.jpg
 ---
-* CNS = Cell, Nature, Science
+<span style="font-size: 0.8rem;">* CNS = Cell, Nature, Science</span>
