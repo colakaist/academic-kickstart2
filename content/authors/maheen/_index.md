@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-- course: BS in Physics
+  - course: BS in Physics
     institution: Pakistan Institute of Engineering and Applied Sciences (PIEAS), Pakistan
     year: 2024
 
