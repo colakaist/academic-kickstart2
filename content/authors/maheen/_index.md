@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MS student (Sep 2025 ~ )
+role: MS student (Aug 2025 ~ )
 
 
 # Organizations/Affiliations
