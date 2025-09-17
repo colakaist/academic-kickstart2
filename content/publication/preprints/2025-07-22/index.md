@@ -12,8 +12,8 @@ pages: ""
 #publishDate: ""
 
 # Category
-# Legend:  Theoretical Physics; Biophysics
-categories: ["Condensed Matter Physics"]
+# Legend:  Theoretical Physics; Biophysics; Condensed Matter Physics
+categories: ["Biophysics"]
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
