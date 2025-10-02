@@ -33,7 +33,7 @@ abstract: "It has been known that the uptake mechanisms of cell-penetrating pept
 #tags:
 #- Source Themes
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
