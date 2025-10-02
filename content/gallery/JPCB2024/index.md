@@ -30,7 +30,7 @@ url_source: 'https://doi.org/10.1021/acs.jpcb.4c04266'
 # Optional header image (relative to `static/img/` folder).   # or 'static/media' folder ?
 #header:
 #  caption: ""
-image: "/media/R9.gif"
+#image: "/media/R9.gif"
 
 ---
 
