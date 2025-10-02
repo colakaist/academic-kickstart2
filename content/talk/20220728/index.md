@@ -1,10 +1,10 @@
 ---
 title: "Daam's Presentation (Jul 2022)"
 #subtitle: "2022-07-28"
-date: "2022-07-28T10:00:00Z"
-#date: "2022-07-28"
+#date: "2022-07-28T10:00:00Z"
+date: "2022-07-28"
 #time: "13:00 PM"
-#show_date: false
+showDate: true
 #show_time: false
 #date_format: Jan 2006
 
