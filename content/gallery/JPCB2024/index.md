@@ -25,12 +25,17 @@ date: "2024-10-24"
 #url_project: ''
 #url_slides: ''
 url_source: 'https://doi.org/10.1021/acs.jpcb.4c04266'
-url_video: '/media/R9.mpg'
+#url_video: '/media/R9.mpg'
 
 # Optional header image (relative to `static/img/` folder).   # or 'static/media' folder ?
 #header:
 #  caption: ""
 # image: ICBP2.jpg
+
+<video width="100%" controls>
+  <source src="/media/R9.mpg" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ---
 
 
