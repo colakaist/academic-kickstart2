@@ -5,7 +5,7 @@ title: "Graduation Day (Aug 2024)"
 date: "2024-08-16"
 #time: "14:00 PM"
 showDate: true
-showTime: false
+#showTime: false
 #date_format: Jan 2006
 #draft: false
 
