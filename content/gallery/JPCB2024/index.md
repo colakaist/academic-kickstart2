@@ -24,7 +24,7 @@ date: "2024-10-24"
 #url_poster: 'BJ_cover_2010.jpg'
 #url_project: ''
 #url_slides: ''
-#url_source: 'https://www.nature.com/articles/nature09580'
+url_source: 'https://doi.org/10.1021/acs.jpcb.4c04266'
 url_video: '/media/R9.mpg'
 
 # Optional header image (relative to `static/img/` folder).   # or 'static/media' folder ?
