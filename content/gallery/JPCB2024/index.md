@@ -32,10 +32,10 @@ url_source: 'https://doi.org/10.1021/acs.jpcb.4c04266'
 #  caption: ""
 # image: ICBP2.jpg
 
+
+---
+
 <video width="100%" controls>
   <source src="/media/R9.mpg" type="video/mp4">
   Your browser does not support the video tag.
 </video>
----
-
-
