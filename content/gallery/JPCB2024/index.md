@@ -25,7 +25,7 @@ date: "2024-10-24"
 #url_project: ''
 #url_slides: ''
 #url_source: 'https://www.nature.com/articles/nature09580'
-url_video: 'https://raw.githubusercontent.com/colakaist/academic-kickstart2/master/content/gallery/JPCB2024/R9.mpg'
+url_video: '/media/R9.mpg'
 
 # Optional header image (relative to `static/img/` folder).   # or 'static/media' folder ?
 #header:
