@@ -1,5 +1,5 @@
 ---
-title: "Decoding Diluent-Driven Solvation Dynamics in Locally Concentrated Ionic Liquid Electrolytes"
+title: "Decoding diluent-driven solvation dynamics in locally concentrated ionic liquid electrolytes"
 authors: [S. Akter, A. Mariam, M. Lim, H. Lee, S. Choe]
 #- schoe
 
