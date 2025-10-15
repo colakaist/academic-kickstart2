@@ -43,5 +43,6 @@ subtitle = ""
 #Currently, we don't have an opening.
 +++
 
-Our group is seeking talented and motivated students (intern, Master, PhD). Please contact us if you are interested.
+We are always looking for highly motivated and talented students (intern, Master’s, and PhD levels) to join our research group.
+If you are interested in our work, please feel free to contact us.
 
