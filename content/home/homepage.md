@@ -46,5 +46,8 @@ subtitle = ""
 
 +++
 
-Our group is exploring the connection between soft matter physics and biology. We're using computer simulations and theoretical models to understand how things work in biological cells and tissues, from tiny molecules to larger cell structures.  Our focus areas include looking at the structure and function of proteins in cell membranes, understanding the properties of soft matter in living things, and investigating how certain peptides help deliver drugs into cells. We're also studying electrolytes, especially in the context of lithium-ion batteries, to figure out how ions move and design better materials for energy storage.
+Our group explores the interface between soft matter physics and biology.
+We use computer simulations and theoretical models to understand how biological systems work — from individual molecules to complex cellular structures.
+Our research focuses on the structure and function of membrane proteins, the physical properties of soft materials in living organisms, and the mechanisms by which certain peptides facilitate drug delivery into cells.
+We also study electrolytes, particularly in lithium-ion batteries, to uncover ion transport mechanisms and design better materials for energy storage.
 
