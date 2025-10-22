@@ -1,5 +1,5 @@
 ---
-title: "Anim: J. Phys. Chem. B 128, 10894 (2024)"
+title: "Gif: J. Phys. Chem. B 128, 10894 (2024)"
 #subtitle: "2022-06-17"
 #date: "2010-10-06T14:00:00Z"
 date: "2024-10-24"
