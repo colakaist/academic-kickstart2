@@ -1,5 +1,5 @@
 ---
-title: "Anim: Sci. Rep. 13, 1168 (2023)"
+title: "Gif: Sci. Rep. 13, 1168 (2023)"
 #subtitle: "2022-06-17"
 #date: "2010-10-06T14:00:00Z"
 date: "2023-01-20"
