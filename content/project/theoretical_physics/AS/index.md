@@ -49,6 +49,8 @@ slides: ""
 #projectimagecaptionshort: ""
 
 ---
-Under the theme of AI and Advanced Sampling for Theoretical and Molecular Systems, we apply machine learning to theoretical physics and materials design while advancing molecular simulation methodologies for complex biological systems. In particular, we integrate data-driven approaches with path sampling techniques, such as the Weighted Ensemble (WE) method, to efficiently capture rare events and elucidate mechanisms of processes including protein folding, binding and unbinding, membrane protein dynamics, and cell-penetrating peptides (CPPs).
+Under the theme of AI and Advanced Sampling for Theoretical and Molecular Systems, we apply machine learning to theoretical physics and materials design while advancing molecular simulation methodologies for complex biological systems. 
+
+In particular, we integrate data-driven approaches with path sampling techniques, such as the Weighted Ensemble (WE) method, to efficiently capture rare events and elucidate mechanisms of processes including protein folding, binding and unbinding, membrane protein dynamics, and cell-penetrating peptides (CPPs).
 
 
