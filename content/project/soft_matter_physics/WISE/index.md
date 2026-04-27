@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Electrolytes for Li-ion Transport and Material Design"
+title: "Electrolytes for Li-ion Transport and Materials Design"
 summary: ""
 
 authors: []
@@ -60,7 +60,7 @@ slides: ""
 #In addition to these endeavors, our research pursuits encompass the investigation of functional and mechanical properties across a spectrum of materials. Through the use of modeling and simulations, we delve into these #properties to gain a comprehensive understanding.
 
 ---
-We are studying the characteristics of electrolytes used in lithium-ion batteries with the goal of designing improved materials based on these properties. To achieve this, we employ density functional theory calculations and molecular dynamics simulations to explore how lithium ions move within different electrolytes.
+We are studying the characteristics of electrolytes used in lithium-ion batteries to design improved materials based on these properties. To achieve this, we employ density functional theory calculations and molecular dynamics simulations to explore how lithium ions move within different electrolytes.
 
 In addition, our research includes investigating the functional and mechanical properties of various materials. Through modeling and simulations, we aim to gain a comprehensive understanding of these properties.
 
