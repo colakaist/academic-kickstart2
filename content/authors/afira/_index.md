@@ -56,9 +56,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:afira1990@dgist.ac.kr
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.kr/citations?user=aacf-VcAAAAJ&hl=en
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.kr/citations?hl=en&user=yI1jFhsAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/colakaist
