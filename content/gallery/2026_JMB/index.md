@@ -1,5 +1,5 @@
 ---
-title: "Gif: J. Membr. Biol. (2026)"
+title: "Gif: J. Membr. Biol. 259, 20 (2026)"
 date: "2026-06-06"
 
 
