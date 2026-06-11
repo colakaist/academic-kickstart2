@@ -10,6 +10,11 @@ tags: []
 date: "2020-05-05" 
 relatedpublications: []
 
+#################################
+featured: false
+#################################
+
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
