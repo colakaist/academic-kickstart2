@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  - course: BS Candidate in Aerospace Engineering 
+  - course: BS in Mechanical Engineering 
     institution: University of Virginia, USA
-    year: 2026
+    year: 2025
 
 #experience:
 #  courses:
