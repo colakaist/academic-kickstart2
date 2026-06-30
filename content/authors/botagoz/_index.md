@@ -32,7 +32,7 @@ interests:
 
 education:
   courses:
-  - course: Senior Undergraduate Chemical and Materials Engineering Student
+  - course: Senior Undergraduate Student in Chemical and Materials Engineering
     institution: Nazarbayev University, Kazakhstan
 #    year: 2027
 
