@@ -32,7 +32,7 @@ interests:
 
 education:
   courses:
-  - course: Undergraduate Student in Environmental Engineering and Management
+  - course: Undergraduate Student in Environmental Engineering and Management - Vocational School
     institution: IPB University, Indonesia
 #    year: 2027
 
