@@ -1,3 +1,4 @@
+---
 title: "Farewell Dinner for Our Interns (Aug 2026)"
 date: "2026-08-06"
 #time: "13:00 PM"
