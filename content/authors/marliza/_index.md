@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: D-SURF intern (Jun 2026 - )
+role: D-SURF intern (Jun 2026 - Aug 2026)
 
 
 # Organizations/Affiliations
