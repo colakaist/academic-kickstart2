@@ -74,9 +74,10 @@ image:
   .farewell-slider {
     position: relative;
     width: 100%;
-    max-width: 1000px;
+    max-width: 1120px;
     margin: 20px auto;
-    overflow: hidden;
+    padding: 0 60px;
+    box-sizing: border-box;
     background: white;
   }
 
@@ -109,16 +110,16 @@ image:
   }
 
   .farewell-prev {
-    left: 10px;
+    left: 6px;
   }
 
   .farewell-next {
-    right: 10px;
+    right: 6px;
   }
 
   .farewell-counter {
     position: absolute;
-    right: 12px;
+    right: 72px;
     bottom: 10px;
     padding: 4px 10px;
     border-radius: 4px;
@@ -128,14 +129,30 @@ image:
   }
 
   @media (max-width: 700px) {
+    .farewell-slider {
+      padding: 0 45px;
+    }
+
     .farewell-image {
       height: 350px;
     }
 
     .farewell-button {
-      width: 38px;
+      width: 36px;
       height: 48px;
       font-size: 22px;
+    }
+
+    .farewell-prev {
+      left: 4px;
+    }
+
+    .farewell-next {
+      right: 4px;
+    }
+
+    .farewell-counter {
+      right: 55px;
     }
   }
 </style>
