@@ -2,8 +2,6 @@
 title: "Farewell Dinner for Our Interns (Aug 2026)"
 date: 2026-08-06
 showDate: true
-image:
-  placement: 0
 ---
 
 <!--more-->
@@ -12,7 +10,7 @@ image:
   <img
     id="farewell-image"
     class="farewell-image"
-    src="featured.jpg"
+    src="1.jpg"
     alt="Farewell dinner photo 1"
   >
 
@@ -39,7 +37,7 @@ image:
 
 <script>
   const farewellImages = [
-    "featured.jpg",
+    "1.jpg",
     "2.jpg"
   ];
 
@@ -54,7 +52,8 @@ image:
     const counter = document.getElementById("farewell-counter");
 
     image.src = farewellImages[farewellImageIndex];
-    image.alt = "Farewell dinner photo " + (farewellImageIndex + 1);
+    image.alt =
+      "Farewell dinner photo " + (farewellImageIndex + 1);
 
     counter.textContent =
       (farewellImageIndex + 1) + " / " + farewellImages.length;
@@ -67,8 +66,8 @@ image:
     width: 100%;
     max-width: 1000px;
     margin: 20px auto;
-    background: white;
     overflow: hidden;
+    background: white;
   }
 
   .farewell-image {
@@ -130,5 +129,4 @@ image:
     }
   }
 </style>
-
 
