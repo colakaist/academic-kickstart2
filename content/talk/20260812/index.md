@@ -1,5 +1,5 @@
 ---
-title: "Visit by Prof. Zoe and His Students (Aug 2026)"
+title: " Visit by Prof. Zoe and His Students from IZTECH (Aug 2026)"
 date: "2026-08-12"
 #time: "13:00 PM"
 showDate: true
