@@ -2,6 +2,9 @@
 title: "Farewell Dinner for Our Interns (Aug 2026)"
 date: 2026-08-06
 showDate: true
+
+image:
+  preview_only: true
 ---
 
 <!--more-->
@@ -10,7 +13,7 @@ showDate: true
   <img
     id="farewell-image"
     class="farewell-image"
-    src="1.jpg"
+    src="featured.jpg"
     alt="Farewell dinner photo 1"
   >
 
@@ -37,7 +40,7 @@ showDate: true
 
 <script>
   const farewellImages = [
-    "1.jpg",
+    "featured.jpg",
     "2.jpg"
   ];
 
@@ -48,15 +51,22 @@ showDate: true
       (farewellImageIndex + direction + farewellImages.length)
       % farewellImages.length;
 
-    const image = document.getElementById("farewell-image");
-    const counter = document.getElementById("farewell-counter");
+    const image =
+      document.getElementById("farewell-image");
 
-    image.src = farewellImages[farewellImageIndex];
+    const counter =
+      document.getElementById("farewell-counter");
+
+    image.src =
+      farewellImages[farewellImageIndex];
+
     image.alt =
       "Farewell dinner photo " + (farewellImageIndex + 1);
 
     counter.textContent =
-      (farewellImageIndex + 1) + " / " + farewellImages.length;
+      (farewellImageIndex + 1) +
+      " / " +
+      farewellImages.length;
   }
 </script>
 
@@ -129,4 +139,3 @@ showDate: true
     }
   }
 </style>
-
