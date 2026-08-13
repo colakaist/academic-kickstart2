@@ -17,8 +17,8 @@ showDate: true
 # Optional header image (relative to `static/img/` folder).   # or 'static/media' folder ?
 #header:
 #  caption: ""
-# image: ICBP2.jpg
+ image: featured.jpg
 ---
 
-
+![Farewell dinner](featured.gif)
 
