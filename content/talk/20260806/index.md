@@ -10,7 +10,7 @@ showDate: true
   <img
     id="farewell-image"
     class="farewell-image"
-    src="1.jpg"
+    src="featured.jpg"
     alt="Farewell dinner photo 1"
   >
 
@@ -37,7 +37,7 @@ showDate: true
 
 <script>
   const farewellImages = [
-    "1.jpg",
+    "featured.jpg",
     "2.jpg"
   ];
 
