@@ -15,8 +15,8 @@ showDate: true
 
 
 # Optional header image (relative to `static/img/` folder).   # or 'static/media' folder ?
-header:
- caption: ""
- image: "featured.gif"
+#header:
+# caption: ""
+# image: "featured.gif"
 ---
 
