@@ -4,8 +4,7 @@ date: 2026-08-06
 showDate: true
 ---
 
-
-
+<!--more-->
 
 <div class="farewell-slider">
   <img
