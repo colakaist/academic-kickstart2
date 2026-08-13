@@ -2,6 +2,7 @@
 title: "Farewell Dinner for Our Interns (Aug 2026)"
 date: 2026-08-06
 showDate: true
+featured: false
 ---
 
 <!--more-->
