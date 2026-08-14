@@ -7,6 +7,7 @@ image:
   preview_only: true
 ---
 
+
 <!--more-->
 
 <div class="farewell-slider">
@@ -17,23 +18,9 @@ image:
     alt="Farewell dinner photo 1"
   >
 
-  <button
-    class="farewell-button farewell-prev"
-    type="button"
-    onclick="changeFarewellImage(-1)"
-    aria-label="Previous image">
-    &#10094;
-  </button>
-
-  <button
-    class="farewell-button farewell-next"
-    type="button"
-    onclick="changeFarewellImage(1)"
-    aria-label="Next image">
-    &#10095;
-  </button>
-
-  <div id="farewell-counter" class="farewell-counter">
+  <div
+    id="farewell-counter"
+    class="farewell-counter">
     1 / 4
   </div>
 </div>
@@ -48,10 +35,9 @@ image:
 
   let farewellImageIndex = 0;
 
-  function changeFarewellImage(direction) {
+  function showNextFarewellImage() {
     farewellImageIndex =
-      (farewellImageIndex + direction + farewellImages.length)
-      % farewellImages.length;
+      (farewellImageIndex + 1) % farewellImages.length;
 
     const image =
       document.getElementById("farewell-image");
@@ -70,16 +56,17 @@ image:
       " / " +
       farewellImages.length;
   }
+
+  setInterval(showNextFarewellImage, 1000);
 </script>
 
 <style>
   .farewell-slider {
     position: relative;
     width: 100%;
-    max-width: 1120px;
+    max-width: 1000px;
     margin: 20px auto;
-    padding: 0 60px;
-    box-sizing: border-box;
+    overflow: hidden;
     background: white;
   }
 
@@ -89,39 +76,12 @@ image:
     height: 630px;
     object-fit: contain;
     background: white;
-  }
-
-  .farewell-button {
-    position: absolute;
-    top: 50%;
-    z-index: 2;
-    transform: translateY(-50%);
-    width: 48px;
-    height: 60px;
-    padding: 0;
-    border: none;
-    border-radius: 5px;
-    color: white;
-    background: rgba(0, 0, 0, 0.45);
-    font-size: 30px;
-    cursor: pointer;
-  }
-
-  .farewell-button:hover {
-    background: rgba(0, 0, 0, 0.75);
-  }
-
-  .farewell-prev {
-    left: 6px;
-  }
-
-  .farewell-next {
-    right: 6px;
+    transition: opacity 0.5s ease-in-out;
   }
 
   .farewell-counter {
     position: absolute;
-    right: 72px;
+    right: 12px;
     bottom: 10px;
     padding: 4px 10px;
     border-radius: 4px;
@@ -131,34 +91,11 @@ image:
   }
 
   @media (max-width: 700px) {
-    .farewell-slider {
-      padding: 0 45px;
-    }
-
     .farewell-image {
       height: 350px;
     }
-
-    .farewell-button {
-      width: 36px;
-      height: 48px;
-      font-size: 22px;
-    }
-
-    .farewell-prev {
-      left: 4px;
-    }
-
-    .farewell-next {
-      right: 4px;
-    }
-
-    .farewell-counter {
-      right: 55px;
-    }
   }
 </style>
-
 
 
 
