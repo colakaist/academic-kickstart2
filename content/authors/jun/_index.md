@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: intern (Jul 2026 - )
+role: intern (Jul 2026 - Aug 2026)
 
 
 # Organizations/Affiliations
@@ -75,7 +75,7 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: ["Undergraduate Students"]
+user_groups: ["Former Members"]
 #- Principal Investigators
 ---
 
