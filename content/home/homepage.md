@@ -39,15 +39,9 @@ subtitle = ""
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["200px", "0", "200px", "0"]
 
-#In simple terms, we're trying to uncover the basic physical rules that govern living things, from the smallest building blocks to entire #cells, using computer simulations and models. We're looking at proteins in cell membranes, exploring soft materials in living organisms, and #figuring out how certain peptides can be helpful in delivering drugs. Additionally, we're investigating the movement of ions in batteries to #improve energy storage.
-
-#We're particularly interested in studying the way polymer complexes change shape and the energy landscapes involved.
 
 
 +++
 
-Our group explores the interface between soft matter physics and biology.
-We use computer simulations and theoretical models to understand how biological systems work — from individual molecules to complex cellular structures.
-Our research focuses on the structure and function of membrane proteins, the physical properties of soft materials in living organisms, and the mechanisms by which certain peptides facilitate drug delivery into cells.
-We also study electrolytes, particularly in lithium-ion batteries, to uncover ion transport mechanisms and design better materials for energy storage.
+Our group explores the interface between soft matter physics and biology. Using computer simulations and theoretical models, we investigate the physical principles underlying biological systems, from individual molecules to complex cellular structures. Our research focuses on the structure and dynamics of membrane proteins, the physical properties of biological soft matter, and how cell-penetrating peptides cross biological membranes and facilitate intracellular drug delivery. We also investigate electrolytes, particularly those used in lithium-ion batteries, to understand ion transport and molecular interactions and to guide the design of improved energy-storage materials.
 
