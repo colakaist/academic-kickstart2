@@ -43,5 +43,7 @@ subtitle = ""
 
 +++
 
-Our group explores the interface between soft matter physics and biology. Using computer simulations and theoretical models, we investigate the physical principles underlying biological systems, from individual molecules to complex cellular structures. Our research focuses on the structure and dynamics of membrane proteins, the physical properties of biological soft matter, and how cell-penetrating peptides cross biological membranes and facilitate intracellular drug delivery. We also investigate electrolytes, particularly those used in lithium-ion batteries, to understand ion transport and molecular interactions and to guide the design of improved energy-storage materials.
+Our group explores the interface between soft matter physics and biology. Using computer simulations and theoretical models, we investigate the physical principles underlying biological systems, from individual molecules to complex cellular structures. 
+
+Our research focuses on the structure and dynamics of membrane proteins, the physical properties of biological soft matter, and how cell-penetrating peptides cross biological membranes and facilitate intracellular drug delivery. We also investigate electrolytes, particularly those used in lithium-ion batteries, to understand ion transport and molecular interactions and to guide the design of improved energy-storage materials.
 
