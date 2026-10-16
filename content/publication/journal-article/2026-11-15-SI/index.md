@@ -45,7 +45,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ' https://www.sciencedirect.com/science/article/pii/S2468023026025058?dgcid=author'
+url_source: 'https://www.sciencedirect.com/science/article/pii/S2468023026025058?dgcid=author'
 url_video: ''
 
 # Featured image
