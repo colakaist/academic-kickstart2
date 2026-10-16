@@ -1,5 +1,5 @@
 ---
-title: " Ab initio insights into diluent-driven interfacial reactivity in locally concentrated ionic liquid electrolytes at lithium metal"
+title: "Ab initio insights into diluent-driven interfacial reactivity in locally concentrated ionic liquid electrolytes at lithium metal"
 authors: [A. Mariam, M. Lim, M. Ejaz, S. Jeong, H. Lee, S. Choe]
 #- schoe
 
