@@ -1,5 +1,5 @@
 ---
-title: "Gif: Surf Interfaces 101, 110930 (2026)"
+title: "Gif: Surf. Interfaces 101, 110930 (2026)"
 date: "2026-10-15"
 
 # links:
