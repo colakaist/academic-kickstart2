@@ -1,5 +1,5 @@
 ---
-title: " Cholesterol Modulates Cell-Penetrating Peptide Translocation Through the Interplay of Peptide Hydration and Membrane Mechanics"
+title: " Cholesterol modulates cell-penetrating peptide translocation through the interplay of peptide hydration and membrane mechanics"
 authors: [M. Ejaz, S. Choe]
 #- schoe
 
