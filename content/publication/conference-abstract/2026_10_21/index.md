@@ -1,5 +1,5 @@
 ---
-title: "Active Learning Enables Long-Timescale Simulations of Diluent-Modulated Ionic Liquid Electrolytes"
+title: "Active learning enables long-timescale simulations of diluent-modulated ionic liquid electrolytes"
 authors: [A. Mariam, S. Choe]
 #- schoe
 
